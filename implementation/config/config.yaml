@@ -5,7 +5,7 @@
 # ============================================================
 
 data:
-  root: "D:/capstone dataset"          # remote Linux example: /mnt/datasets/capstone
+  root: "datasets"                     # bundled synthetic RLVS demo videos; override with CAPSTONE_DATA_ROOT for real data
   ucf_crime:
     path: "Anomaly-Detection-Dataset"
     train_split: "Anomaly_Train.txt"
@@ -44,12 +44,14 @@ video:
 models:
   default: "clip"
   vljepa:
-    visual_backbone: "facebook/vjepa2-vitb16-224"
-    # low-spec (<8GB): facebook/vjepa2-vits16-224 | high-VRAM (>=16GB): facebook/vjepa2-vitl16-224
+    visual_backbone: "facebook/vjepa2-vitl-fpc16-256-ssv2"
+    # facebook/vjepa2-vitb16-224 etc. do not exist on the Hub; official V-JEPA 2
+    # checkpoints are facebook/vjepa2-vit{l,h,g}-fpc{16,32,64}-256[/384][-ssv2|-diving48]
+    # low-spec: none smaller than ViT-L exists; use --limit on extraction
     text_encoder: "openai/clip-vit-base-patch32"
     align: "truncate"                   # zero-training dim alignment for the V-JEPA2 + CLIP-text fallback
     num_frames: 16                      # V-JEPA 2 tubelet frame count; encoder resamples clips to this
-    input_size: 224
+    input_size: 256
     device: "auto"
     batch_size: 4
   clip:
@@ -72,6 +74,7 @@ retrieval:
 llm:
   model: "google/flan-t5-base"
   # low-spec: google/flan-t5-small | balanced: google/flan-t5-base | full: google/flan-t5-large
+  story_model: "Qwen/Qwen2.5-1.5B-Instruct"   # instruction LM for video story narration / Q&A (CPU friendly)
   quantization: "none"                  # none | 4bit | 8bit (bitsandbytes, Linux only)
   max_new_tokens: 512
   temperature: 0.3

@@ -82,7 +82,7 @@ def render_results(results, columns=5):
                 st.json({k: v for k, v in r.items() if k not in ("rank", "score")}, expanded=False)
 
 
-def main():
+def retrieval_page():
     st.title("VL-JEPA vs CLIP - CCTV Event Retrieval")
     config_path = str(PROJECT_ROOT / "config" / "config.yaml")
     config = load_config_cached(config_path)
@@ -115,7 +115,7 @@ def main():
         "Natural-language query",
         value="a person running away after an assault",
     )
-    run = st.button("Retrieve", type="primary", use_container_width=True)
+    run = st.button("Retrieve", type="primary", width="stretch")
 
     if run and index_path and query.strip():
         target_models = ["clip"] if model_mode == "CLIP" else (
@@ -160,5 +160,6 @@ def main():
                     st.error(f"Report generation failed: {exc}")
 
 
-if __name__ == "__main__":
-    main()
+summarizer = st.Page("video_summarizer.py", title="Video Summarizer", icon="🎬", default=True)
+retrieval = st.Page(retrieval_page, title="Dataset Retrieval", icon="🔍")
+st.navigation([summarizer, retrieval]).run()

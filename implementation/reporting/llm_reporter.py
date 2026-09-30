@@ -53,13 +53,16 @@ class IncidentReporter:
         prompt = build_report_prompt(evidence, query, grounded=grounded)
         return self._generate(prompt)
 
+    def generate_from_prompt(self, prompt: str, max_new_tokens: int | None = None) -> str:
+        return self._generate(prompt, max_new_tokens=max_new_tokens)
+
     @torch.no_grad()
-    def _generate(self, prompt: str) -> str:
+    def _generate(self, prompt: str, max_new_tokens: int | None = None) -> str:
         inputs = self.tokenizer(
             prompt, return_tensors="pt", truncation=True, max_length=self.max_input_tokens
         )
         inputs = {k: v.to(self.model.device) for k, v in inputs.items()}
-        gen_kwargs = {"max_new_tokens": self.max_new_tokens}
+        gen_kwargs = {"max_new_tokens": int(max_new_tokens or self.max_new_tokens)}
         if self.temperature > 0:
             gen_kwargs.update(do_sample=True, temperature=self.temperature)
         output = self.model.generate(**inputs, **gen_kwargs)

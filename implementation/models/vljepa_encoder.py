@@ -14,6 +14,10 @@ IMAGENET_MEAN = (0.485, 0.456, 0.406)
 IMAGENET_STD = (0.229, 0.224, 0.225)
 
 
+def _as_tensor(output):
+    return output if torch.is_tensor(output) else output.pooler_output
+
+
 class VLJEPAEncoder:
     """VL-JEPA encoder wrapper with a V-JEPA 2 + CLIP-text fallback.
 
@@ -152,7 +156,7 @@ class VLJEPAEncoder:
         tokens = self.text_tokenizer(
             list(texts), padding=True, truncation=True, max_length=77, return_tensors="pt"
         ).to(self.device)
-        feats = self.text_model.get_text_features(**tokens)
+        feats = _as_tensor(self.text_model.get_text_features(**tokens))
         feats = l2_normalize_tensor(feats.float())
         if truncate and not self.native_vl:
             feats = feats[:, : self.embedding_dim]

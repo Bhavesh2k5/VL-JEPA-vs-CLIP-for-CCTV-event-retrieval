@@ -10,6 +10,10 @@ CLIP_MEAN = (0.48145466, 0.4578275, 0.40821073)
 CLIP_STD = (0.26862954, 0.26130258, 0.27577711)
 
 
+def _as_tensor(output):
+    return output if torch.is_tensor(output) else output.pooler_output
+
+
 class CLIPEncoder:
     def __init__(self, config: dict, variant: str = "primary"):
         mcfg = config["models"]["clip"]
@@ -31,7 +35,7 @@ class CLIPEncoder:
         if x.shape[-1] != self.input_size or x.shape[-2] != self.input_size:
             x = F.interpolate(x, size=(self.input_size, self.input_size), mode="bilinear", align_corners=False)
         x = normalize_frames(x, CLIP_MEAN, CLIP_STD).to(self.dtype)
-        feats = self.model.get_image_features(pixel_values=x)
+        feats = _as_tensor(self.model.get_image_features(pixel_values=x))
         feats = feats.view(b, t, -1).mean(dim=1)
         return l2_normalize_tensor(feats.float()).cpu()
 
@@ -40,7 +44,7 @@ class CLIPEncoder:
         tokens = self.tokenizer(
             list(texts), padding=True, truncation=True, max_length=77, return_tensors="pt"
         ).to(self.device)
-        feats = self.model.get_text_features(**tokens)
+        feats = _as_tensor(self.model.get_text_features(**tokens))
         return l2_normalize_tensor(feats.float()).cpu()
 
     def get_embedding_dim(self) -> int:
