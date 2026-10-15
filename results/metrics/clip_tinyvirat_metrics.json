@@ -1,0 +1,82 @@
+{
+  "model": "clip",
+  "dataset": "tinyvirat",
+  "retrieval": {
+    "Recall@1": 0.2308,
+    "Recall@5": 0.3846,
+    "Recall@10": 0.4615,
+    "MRR": 0.2932,
+    "nDCG@10": 0.9299,
+    "mAP": 0.2501
+  },
+  "efficiency": {
+    "mean_latency_ms": 66.46,
+    "std_latency_ms": 0.82,
+    "p50_latency_ms": 66.39,
+    "p95_latency_ms": 68.25,
+    "peak_gpu_mem_mb": 973.69,
+    "reserved_gpu_mem_mb": 1040.0,
+    "throughput_clips_per_sec": 14.96
+  },
+  "faithfulness": {
+    "grounded": {
+      "grounding_score": 0.25,
+      "hallucination_rate": 0.75,
+      "total_sentences": 4,
+      "supported_sentences": 1,
+      "unsupported_sentences": 3,
+      "details": [
+        {
+          "sentence": "INCIDENT CLASSIFICATION: ACTIVITY_CARRYING (Confidence: 29",
+          "supported": true,
+          "reason": "grounded"
+        },
+        {
+          "sentence": "OBSERVED EVIDENCE: Analysis of 5 retrieved footage items confirms active 'activity_carrying' recorded from stationary camera perspective (Primary evidence: 001102",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "SEVERITY ASSESSMENT: Medium severity based on retrieved movement indicators",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "ACTION REQUIRED: Log event for routine shift review",
+          "supported": false,
+          "reason": "unsupported_claim"
+        }
+      ]
+    },
+    "ungrounded": {
+      "grounding_score": 0.0,
+      "hallucination_rate": 1.0,
+      "total_sentences": 4,
+      "supported_sentences": 0,
+      "unsupported_sentences": 4,
+      "details": [
+        {
+          "sentence": "INCIDENT CLASSIFICATION: UNGROUNDED INQUIRY (person walking slowly across the camera view)",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "OBSERVED EVIDENCE: Speculative report generated without verified camera footage context",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "SEVERITY ASSESSMENT: Unknown",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "ACTION REQUIRED: Verify footage before taking security action",
+          "supported": false,
+          "reason": "unsupported_claim"
+        }
+      ]
+    }
+  },
+  "generalization": {}
+}

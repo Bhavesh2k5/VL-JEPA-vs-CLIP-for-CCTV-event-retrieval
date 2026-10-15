@@ -1,0 +1,7 @@
+model,condition,grounding_score,hallucination_rate,evidence_support_ratio,n_supported,n_unsupported,n_total
+vljepa,grounded_rag,0.884,0.116,0.892,115,14,129
+vljepa,ungrounded_prompt,0.428,0.572,0.418,54,75,129
+clip_large,grounded_rag,0.832,0.168,0.825,108,21,129
+clip_large,ungrounded_prompt,0.441,0.559,0.435,57,72,129
+clip_base,grounded_rag,0.785,0.215,0.772,101,28,129
+clip_base,ungrounded_prompt,0.415,0.585,0.402,52,77,129

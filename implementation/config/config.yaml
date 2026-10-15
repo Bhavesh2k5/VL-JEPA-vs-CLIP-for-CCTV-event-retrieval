@@ -44,7 +44,10 @@ video:
 models:
   default: "clip"
   vljepa:
-    visual_backbone: "facebook/vjepa2-vitl-fpc16-256-ssv2"
+    visual_backbone: "qubvel-hf/vjepa2-vitl-fpc16-256-ssv2"
+    # same ViT-L fpc16-256-ssv2 weights as facebook/vjepa2-vitl-fpc16-256-ssv2, but with a
+    # transformers-native config.json (model_type: vjepa2); the original facebook repos
+    # predate the integration and AutoConfig rejects them
     # facebook/vjepa2-vitb16-224 etc. do not exist on the Hub; official V-JEPA 2
     # checkpoints are facebook/vjepa2-vit{l,h,g}-fpc{16,32,64}-256[/384][-ssv2|-diving48]
     # low-spec: none smaller than ViT-L exists; use --limit on extraction

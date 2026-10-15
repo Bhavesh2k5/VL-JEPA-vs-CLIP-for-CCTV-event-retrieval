@@ -1,0 +1,41 @@
+# Python virtual environments
+.venv/
+*/.venv/
+venv/
+*/venv/
+env/
+*/env/
+
+# Python cache & bytecode
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*/*/.ipynb_checkpoints/
+
+# Temporary video uploads & scratch files
+data/uploads/*
+*/data/uploads/*
+!data/uploads/.gitkeep
+scratch/
+*/scratch/
+
+# Large temporary extended training runs (>100MB)
+notebooks/outputs/
+*/outputs/checkpoints/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS specific
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,5 @@
+model,condition,grounding_score,n_supported,n_unsupported
+vljepa,grounded,0.86,43,7
+vljepa,ungrounded,0.41,29,42
+clip,grounded,0.84,42,8
+clip,ungrounded,0.44,31,39

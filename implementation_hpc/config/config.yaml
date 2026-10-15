@@ -1,0 +1,138 @@
+# ==============================================================================
+# Master Configuration — Implementation HPC (RTX 4000 Ada 20GB Optimized)
+# Datasets: RLVS, UCF-ARG, TinyVIRAT-v2 (UCF-Crime excluded per specifications)
+# ==============================================================================
+
+system:
+  device: "cuda"                      # cuda | cpu
+  fp16: true                          # RTX 4000 Ada tensor core acceleration
+  seed: 42
+  num_workers: 4                      # DataLoader threads for video decoding
+  pin_memory: true
+
+data:
+  root: "C:/Users/HPCLAB/Desktop/capstone-core datset"  # Real datasets on Desktop
+  fallback_demo_root: "datasets"
+  active_datasets:
+    - "rlvs"
+    - "ucf_arg"
+    - "tinyvirat"
+    - "ucf_crime"
+  
+  ucf_crime:
+    path: "C:/Users/HPCLAB/Desktop/capstone-ucf dataset"
+    classes:
+      - "abuse"
+      - "arrest"
+      - "arson"
+      - "assault"
+      - "burglary"
+      - "explosion"
+      - "fighting"
+      - "normal"
+      - "roadaccidents"
+      - "robbery"
+      - "shooting"
+      - "shoplifting"
+      - "stealing"
+      - "vandalism"
+    max_clips: null                    # Full 1,000 clips on RTX 4000 Ada
+
+  rlvs:
+    path: "capstone_rlvs/Real Life Violence Dataset"
+    classes: ["Violence", "NonViolence"]
+    extensions: ["*.mp4", "*.avi"]     # Critical: captures 49 AVI NonViolence clips
+    max_clips: null                    # Full 2,000 clips on RTX 4000 Ada
+
+  ucf_arg:
+    path: "capstone_ucf_arg/cross camera data"
+    viewpoints: ["aerial_clips", "ground_clips", "rooftop_clips"]
+    classes:
+      - "boxing"
+      - "carrying"
+      - "clapping"
+      - "digging"
+      - "jogging"
+      - "openclosetrunk"
+      - "running"
+      - "throwing"
+      - "walking"
+      - "waving"
+    max_clips: null                    # Full 1,410 clips
+
+  tinyvirat:
+    path: "capstone_tinyvirat_v2/TinyVIRAT-v2/TinyVIRAT_V2"
+    class_map: "class_map.json"
+    splits:
+      train: "tiny_train_v2.json"
+      val: "tiny_val_v2.json"
+      test: "tiny_test_v2_public.json"
+    max_clips: 3000
+    min_native_size: 72                # Preserve small features without premature degradation
+
+video:
+  num_frames: 16                       # 16-frame spatiotemporal tubelet modeling
+  frame_size: 224                      # Standard ViT resolution
+  fps: 30
+  decode_backend: "auto"               # decord -> opencv auto fallback
+
+models:
+  clip:
+    primary: "openai/clip-vit-large-patch14"  # Primary ViT-L/14 enabled by 20GB VRAM
+    secondary: "openai/clip-vit-base-patch32"
+    batch_size: 32                     # High throughput on RTX 4000 Ada
+    embedding_dim: 768
+    pooling: "mean"                    # mean frame pooling
+
+  vljepa:
+    visual_backbone: "qubvel-hf/vjepa2-vitl-fpc16-256-ssv2" # Official Meta V-JEPA 2 ViT-L
+    visual_dim: 1024
+    input_size: 256
+    num_frames: 16
+    batch_size: 8                      # Fits 20GB VRAM with 16 frames @ 256x256
+    text_backbone: "openai/clip-vit-large-patch14"
+    text_dim: 768
+
+  predictor:
+    d_model: 1536                      # Latent projection dimension
+    shared_dim: 768                    # Continuous semantic space dimension (preserves open-vocabulary language)
+    num_layers: 4                      # 4-layer bidirectional Transformer encoder
+    num_heads: 16                      # 16 attention heads
+    dim_feedforward: 4096              # MLP intermediate expansion
+    dropout: 0.1
+    temperature: 0.07                  # InfoNCE temperature parameter tau
+
+training:
+  epochs: 25
+  batch_size: 64                       # Batch size on cached visual/text features
+  learning_rate: 1.0e-4
+  min_lr: 1.0e-6
+  weight_decay: 0.01
+  warmup_epochs: 3
+  save_dir: "results/checkpoints"
+  checkpoint_interval: 5
+
+retrieval:
+  index_type: "FlatIP"                 # FAISS IndexFlatIP (cosine on L2-normalized)
+  auto_ivf_threshold: 20000
+  top_k: 5
+  embedding_save_dir: "results/embeddings"
+  index_save_dir: "results/indices"
+
+llm:
+  model: "google/flan-t5-base"         # Fast, structured incident reporting
+  device: "cuda"
+  max_new_tokens: 512
+  temperature: 0.2
+
+evaluation:
+  recall_k_values: [1, 5, 10]
+  latency_runs: 50
+  faithfulness_metric: "grounding_score"
+  hallucination_threshold: 0.5
+  generalization_max_per_class: 16
+  output_dir: "results/metrics"
+
+visualization:
+  output_dir: "results/plots"
+  dpi: 300

@@ -1,0 +1,106 @@
+{
+  "model": "vljepa",
+  "dataset": "ucf_arg",
+  "retrieval": {
+    "Recall@1": 0.7,
+    "Recall@5": 0.9,
+    "Recall@10": 1.0,
+    "MRR": 0.8111,
+    "nDCG@10": 2.9319,
+    "mAP": 0.7085
+  },
+  "efficiency": {
+    "mean_latency_ms": 84.89,
+    "std_latency_ms": 3.29,
+    "p50_latency_ms": 83.73,
+    "p95_latency_ms": 90.76,
+    "peak_gpu_mem_mb": 1527.42,
+    "reserved_gpu_mem_mb": 1584.0,
+    "throughput_clips_per_sec": 14.93
+  },
+  "faithfulness": {
+    "grounded": {
+      "grounding_score": 0.25,
+      "hallucination_rate": 0.75,
+      "total_sentences": 4,
+      "supported_sentences": 1,
+      "unsupported_sentences": 3,
+      "details": [
+        {
+          "sentence": "INCIDENT CLASSIFICATION: BOXING (Confidence: 29",
+          "supported": true,
+          "reason": "grounded"
+        },
+        {
+          "sentence": "OBSERVED EVIDENCE: Analysis of 5 retrieved footage items confirms active 'boxing' recorded from aerial perspective (Primary evidence: person10_03_aerial_boxing",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "SEVERITY ASSESSMENT: Medium severity based on retrieved movement indicators",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "ACTION REQUIRED: Log event for routine shift review",
+          "supported": false,
+          "reason": "unsupported_claim"
+        }
+      ]
+    },
+    "ungrounded": {
+      "grounding_score": 0.0,
+      "hallucination_rate": 1.0,
+      "total_sentences": 4,
+      "supported_sentences": 0,
+      "unsupported_sentences": 4,
+      "details": [
+        {
+          "sentence": "INCIDENT CLASSIFICATION: UNGROUNDED INQUIRY (person boxing and throwing punches)",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "OBSERVED EVIDENCE: Speculative report generated without verified camera footage context",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "SEVERITY ASSESSMENT: Unknown",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "ACTION REQUIRED: Verify footage before taking security action",
+          "supported": false,
+          "reason": "unsupported_claim"
+        }
+      ]
+    }
+  },
+  "generalization": {
+    "viewpoints": [
+      "aerial",
+      "rooftop",
+      "ground"
+    ],
+    "matrix": [
+      [
+        0.7686,
+        0.3098,
+        0.5329
+      ],
+      [
+        0.3355,
+        0.906,
+        0.3418
+      ],
+      [
+        0.5138,
+        0.4316,
+        0.9278
+      ]
+    ],
+    "mean_cross_view_recall": 0.4109
+  }
+}

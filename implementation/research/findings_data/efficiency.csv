@@ -1,0 +1,5 @@
+model,dataset,latency_mean_ms,latency_std_ms,throughput_clips_s
+vljepa,ucf_crime,78.4,6.2,12.8
+vljepa,rlvs,74.9,5.1,13.4
+clip,ucf_crime,41.7,3.4,24.0
+clip,rlvs,39.8,2.9,25.1

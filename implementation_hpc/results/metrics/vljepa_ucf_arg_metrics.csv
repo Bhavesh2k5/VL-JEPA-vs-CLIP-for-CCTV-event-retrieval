@@ -1,0 +1,2 @@
+Model,Dataset,Recall@1,Recall@5,Recall@10,MRR,nDCG@10,mAP,mean_latency_ms,std_latency_ms,p50_latency_ms,p95_latency_ms,peak_gpu_mem_mb,reserved_gpu_mem_mb,throughput_clips_per_sec,Grounded_Score,Ungrounded_Score
+vljepa,ucf_arg,0.7,0.9,1.0,0.8111,2.9319,0.7085,84.89,3.29,83.73,90.76,1527.42,1584.0,14.93,0.25,0.0

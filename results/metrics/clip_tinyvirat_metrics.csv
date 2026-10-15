@@ -1,0 +1,2 @@
+Model,Dataset,Recall@1,Recall@5,Recall@10,MRR,nDCG@10,mAP,mean_latency_ms,std_latency_ms,p50_latency_ms,p95_latency_ms,peak_gpu_mem_mb,reserved_gpu_mem_mb,throughput_clips_per_sec,Grounded_Score,Ungrounded_Score
+clip,tinyvirat,0.2308,0.3846,0.4615,0.2932,0.9299,0.2501,66.46,0.82,66.39,68.25,973.69,1040.0,14.96,0.25,0.0

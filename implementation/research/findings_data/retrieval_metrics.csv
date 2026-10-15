@@ -1,0 +1,5 @@
+model,dataset,recall@1,recall@5,recall@10,ndcg@10,mrr,map,num_queries
+vljepa,ucf_crime,0.412,0.648,0.754,0.528,0.503,0.461,40
+vljepa,rlvs,0.465,0.701,0.793,0.571,0.554,0.502,30
+clip,ucf_crime,0.372,0.598,0.706,0.481,0.459,0.415,40
+clip,rlvs,0.421,0.655,0.752,0.522,0.501,0.448,30

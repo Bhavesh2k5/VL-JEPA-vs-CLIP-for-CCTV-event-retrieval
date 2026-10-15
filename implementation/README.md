@@ -28,6 +28,7 @@ capstone/
     ├── evaluation/     # retrieval/efficiency/faithfulness/generalization metrics
     ├── scripts/        # CLI pipeline entry points
     ├── demo/           # Streamlit web demo
+    ├── research/       # findings notebooks: feed CSVs → graphs + tables (research/README.md)
     ├── tests/          # pytest unit tests (no datasets or downloads needed)
     ├── Dockerfile / docker-compose.yml / .env.example
     ├── requirements.txt / setup.py / Makefile
@@ -124,7 +125,30 @@ extract_embeddings.py → build_index.py → run_retrieval.py
 | Slow disk / huge dataset | `data.tinyvirat.max_clips`, `evaluation.max_eval_clips`, `--limit` flag on extraction |
 | OOM during extraction | automatic batch halving; or set `--batch-size 2 --num-workers 0` |
 
-## 7. Tests
+## 7. Research findings notebooks (`research/`)
+
+Jupyter notebooks that turn **fed-in data** into publication-ready graphs and
+tables for the findings chapter — no pipeline run required. Drop a CSV into
+`research/findings_data/`, open a notebook, and every figure/table regenerates;
+exports (PNG + PDF figures, CSV + LaTeX tables) land in `research/outputs/`.
+
+| Notebook | Feed CSV | Findings produced |
+|---|---|---|
+| `01_retrieval_comparison.ipynb` | `retrieval_metrics.csv` | H1: styled metrics table, Recall@K panels/curves, nDCG/MRR/mAP panels, VL-JEPA vs CLIP delta charts |
+| `02_efficiency_analysis.ipynb` | `efficiency.csv` | latency bars with error bars, throughput, accuracy-vs-latency trade-off scatter |
+| `03_faithfulness_generalization.ipynb` | `faithfulness.csv`, `generalization.csv` | H3: grounded-vs-ungrounded grounding-score bars + gap table; H2: cross-view recall heatmaps |
+
+```bash
+pip install -r research/requirements.txt   # notebook + jinja2 (pandas/matplotlib already required)
+jupyter notebook research/                 # or open the *.ipynb in VS Code
+```
+
+Load order per notebook: your `findings_data/*.csv` → pipeline output
+(`results/metrics/comparison_table.csv` when present) → built-in example data,
+so the notebooks run end-to-end before real numbers exist. Expected columns are
+documented in `research/README.md`.
+
+## 8. Tests
 
 ```bash
 pytest tests -v
@@ -134,7 +158,7 @@ Covers retrieval metrics math, FAISS save/load round-trip, retriever wiring,
 faithfulness heuristics, and all four dataset index builders (RLVS AVI gotcha
 included) using synthetic file trees — no datasets, no model downloads.
 
-## 8. Troubleshooting
+## 9. Troubleshooting
 
 - **`cannot load visual backbone ...`** — VL-JEPA/V-JEPA 2 checkpoint id wrong or
   not downloadable; set `models.vljepa.visual_backbone` to a valid V-JEPA 2 id.

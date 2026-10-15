@@ -1,0 +1,82 @@
+{
+  "model": "clip",
+  "dataset": "rlvs",
+  "retrieval": {
+    "Recall@1": 0.5,
+    "Recall@5": 0.6667,
+    "Recall@10": 0.6667,
+    "MRR": 0.5417,
+    "nDCG@10": 2.4585,
+    "mAP": 0.5562
+  },
+  "efficiency": {
+    "mean_latency_ms": 67.14,
+    "std_latency_ms": 0.69,
+    "p50_latency_ms": 67.01,
+    "p95_latency_ms": 68.61,
+    "peak_gpu_mem_mb": 969.69,
+    "reserved_gpu_mem_mb": 1040.0,
+    "throughput_clips_per_sec": 15.01
+  },
+  "faithfulness": {
+    "grounded": {
+      "grounding_score": 0.25,
+      "hallucination_rate": 0.75,
+      "total_sentences": 4,
+      "supported_sentences": 1,
+      "unsupported_sentences": 3,
+      "details": [
+        {
+          "sentence": "INCIDENT CLASSIFICATION: VIOLENCE (Confidence: 31",
+          "supported": true,
+          "reason": "grounded"
+        },
+        {
+          "sentence": "OBSERVED EVIDENCE: Analysis of 5 retrieved footage items confirms active 'violence' recorded from stationary camera perspective (Primary evidence: V_66",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "SEVERITY ASSESSMENT: High severity based on retrieved movement indicators",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "ACTION REQUIRED: Dispatch immediate security personnel to investigate",
+          "supported": false,
+          "reason": "unsupported_claim"
+        }
+      ]
+    },
+    "ungrounded": {
+      "grounding_score": 0.0,
+      "hallucination_rate": 1.0,
+      "total_sentences": 4,
+      "supported_sentences": 0,
+      "unsupported_sentences": 4,
+      "details": [
+        {
+          "sentence": "INCIDENT CLASSIFICATION: UNGROUNDED INQUIRY (violent physical fight between people on the street)",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "OBSERVED EVIDENCE: Speculative report generated without verified camera footage context",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "SEVERITY ASSESSMENT: Unknown",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "ACTION REQUIRED: Verify footage before taking security action",
+          "supported": false,
+          "reason": "unsupported_claim"
+        }
+      ]
+    }
+  },
+  "generalization": {}
+}

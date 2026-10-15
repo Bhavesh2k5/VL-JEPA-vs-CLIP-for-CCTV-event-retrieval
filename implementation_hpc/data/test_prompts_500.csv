@@ -1,0 +1,501 @@
+id,dataset,category,query,specificity,target_context
+P001,RLVS,Gender Altercation,two females in aggressive physical altercation on sidewalk,high,Violence
+P002,RLVS,Gender Altercation,two women wrestling and pulling hair in street dispute,high,Violence
+P003,RLVS,Gender Altercation,physical fight between two women outside storefront,high,Violence
+P004,RLVS,Gender Altercation,young women exchanging strikes and grappling on pavement,high,Violence
+P005,RLVS,Gender Altercation,female knocking opponent to ground during heated fight,high,Violence
+P006,RLVS,Gender Altercation,two women trading punches near parked cars on roadside,high,Violence
+P007,RLVS,Gender Altercation,physical confrontation between two females in public alley,high,Violence
+P008,RLVS,Gender Altercation,two women grappling and falling onto asphalt pavement,high,Violence
+P009,RLVS,Gender Altercation,female shoving opponent backwards against brick building wall,high,Violence
+P010,RLVS,Gender Altercation,heated scuffle between two females shouting on street corner,high,Violence
+P011,RLVS,Gender Altercation,two women exchanging slaps and punches in public area,high,Violence
+P012,RLVS,Gender Altercation,bystanders attempting to separate two fighting females,medium,Violence
+P013,RLVS,Gender Altercation,aggressive woman dragging opponent down by clothing,high,Violence
+P014,RLVS,Gender Altercation,two females rolling and wrestling on concrete ground,high,Violence
+P015,RLVS,Gender Altercation,sudden violent confrontation between two women at night,high,Violence
+P016,RLVS,Gender Altercation,two men engaged in fistfight on public street sidewalk,high,Violence
+P017,RLVS,Gender Altercation,young men trading heavy punches on asphalt pavement,high,Violence
+P018,RLVS,Gender Altercation,tall male punching opponent in face repeatedly,high,Violence
+P019,RLVS,Gender Altercation,two men brawling violently outside commercial building,high,Violence
+P020,RLVS,Gender Altercation,man pinning opponent to ground and delivering strikes,high,Violence
+P021,RLVS,Gender Altercation,two men arguing aggressively before throwing punches,high,Violence
+P022,RLVS,Gender Altercation,shirtless men engaged in aggressive street brawl,high,Violence
+P023,RLVS,Gender Altercation,male knocking opponent down onto pavement with punch,high,Violence
+P024,RLVS,Gender Altercation,two men grappling and wrestling on dusty roadside,high,Violence
+P025,RLVS,Gender Altercation,man kicking opponent who is defenseless on the ground,high,Violence
+P026,RLVS,Group Brawl,large crowd of people fighting outside building entrance,high,Violence
+P027,RLVS,Group Brawl,chaotic mass brawl with multiple individuals throwing punches,high,Violence
+P028,RLVS,Group Brawl,three attackers assaulting solitary victim on sidewalk,high,Violence
+P029,RLVS,Group Brawl,group of youths beating person lying on street pavement,high,Violence
+P030,RLVS,Group Brawl,chaotic melee in alleyway with several people fighting,high,Violence
+P031,RLVS,Group Brawl,two opposing groups clashing in aggressive street brawl,high,Violence
+P032,RLVS,Group Brawl,bystanders trying to pull brawling men apart in crowded street,medium,Violence
+P033,RLVS,Group Brawl,multiple individuals kicking and punching each other outdoors,high,Violence
+P034,RLVS,Group Brawl,violent mob surrounding and assaulting an individual,high,Violence
+P035,RLVS,Group Brawl,group brawl spilling over onto active roadway,high,Violence
+P036,RLVS,Group Brawl,several people fighting and falling over curbs on street,high,Violence
+P037,RLVS,Group Brawl,large group altercation on public urban street corner,high,Violence
+P038,RLVS,Group Brawl,chaotic fight with people falling onto parked vehicles,high,Violence
+P039,RLVS,Group Brawl,multiple simultaneous physical fights occurring in street crowd,high,Violence
+P040,RLVS,Group Brawl,crowd dispersing in panic as street brawl escalates,medium,Violence
+P041,RLVS,Group Brawl,several males stomping on victim lying flat on concrete,high,Violence
+P042,RLVS,Group Brawl,chaotic scuffle between security guards and unruly patrons,medium,Violence
+P043,RLVS,Group Brawl,group of people throwing bottles and punches during angry clash,high,Violence
+P044,RLVS,Group Brawl,intense street rumble between two rival groups of youths,high,Violence
+P045,RLVS,Group Brawl,escalating fistfight in middle of crowded night market street,high,Violence
+P046,RLVS,Group Brawl,multiple attackers surrounding and kicking trapped person,high,Violence
+P047,RLVS,Group Brawl,chaotic crowd push and shove turning into wild brawl,high,Violence
+P048,RLVS,Group Brawl,bystanders screaming as multiple people brawl on pavement,high,Violence
+P049,RLVS,Group Brawl,bar patrons fighting violently on sidewalk outside venue,high,Violence
+P050,RLVS,Group Brawl,street brawl with multiple participants exchanging blows,high,Violence
+P051,RLVS,Action Mechanics,person delivering high kick to opponent's upper body,high,Violence
+P052,RLVS,Action Mechanics,fighter landing repetitive right hook punches on opponent,high,Violence
+P053,RLVS,Action Mechanics,tackle and violent takedown onto concrete pavement,high,Violence
+P054,RLVS,Action Mechanics,man chokeholding opponent against exterior building wall,high,Violence
+P055,RLVS,Action Mechanics,aggressive headbutt during face-to-face altercation,high,Violence
+P056,RLVS,Action Mechanics,person swinging wooden stick weapon at opponent in fight,high,Violence
+P057,RLVS,Action Mechanics,attacker swinging metal pipe during street assault,high,Violence
+P058,RLVS,Action Mechanics,fighter sweeping legs of opponent causing violent fall,high,Violence
+P059,RLVS,Action Mechanics,individual repeatedly kneeing opponent in body during clinch,high,Violence
+P060,RLVS,Action Mechanics,person grabbing opponent's shirt collar and punching face,high,Violence
+P061,RLVS,Action Mechanics,violent slam of opponent onto hard asphalt roadway,high,Violence
+P062,RLVS,Action Mechanics,attacker landing forceful elbow strike to opponent's head,high,Violence
+P063,RLVS,Action Mechanics,two people locked in standing headlock struggle on sidewalk,medium,Violence
+P064,RLVS,Action Mechanics,person throwing blunt object at opponent during dispute,medium,Violence
+P065,RLVS,Action Mechanics,assailant kicking person repeatedly while victim is on ground,high,Violence
+P066,RLVS,Action Mechanics,victim attempting to shield head while being struck with fists,high,Violence
+P067,RLVS,Action Mechanics,wild swinging punches thrown between two angry combatants,medium,Violence
+P068,RLVS,Action Mechanics,two fighters exchanging rapid boxing combinations in street,high,Violence
+P069,RLVS,Action Mechanics,person shoving opponent backwards onto car hood violently,high,Violence
+P070,RLVS,Action Mechanics,attacker stomping forcefully on victim on concrete ground,high,Violence
+P071,RLVS,Action Mechanics,person grappling opponent into chokehold on the ground,high,Violence
+P072,RLVS,Action Mechanics,violent pushing contest escalating rapidly into fistfight,high,Violence
+P073,RLVS,Action Mechanics,person retaliating with aggressive kick to torso,high,Violence
+P074,RLVS,Action Mechanics,two fighters rolling and grappling in dirt roadside ditch,high,Violence
+P075,RLVS,Action Mechanics,man slapping opponent hard across face sparking fight,medium,Violence
+P076,RLVS,Context Specific,road rage altercation between two angry stopped drivers,high,Violence
+P077,RLVS,Context Specific,driver exiting vehicle to physically assault another motorist,high,Violence
+P078,RLVS,Context Specific,physical fight occurring at gas station pump island,high,Violence
+P079,RLVS,Context Specific,violent altercation in convenience store parking lot at night,high,Violence
+P080,RLVS,Context Specific,fight between two motorcyclists after roadside collision,high,Violence
+P081,RLVS,Context Specific,brawl breaking out inside public transit bus or train,high,Violence
+P082,RLVS,Context Specific,street fight illuminated by headlights of stopped traffic,high,Violence
+P083,RLVS,Context Specific,altercation on commercial store sidewalk late at night,high,Violence
+P084,RLVS,Context Specific,physical fight taking place on dirt road shoulder,high,Violence
+P085,RLVS,Context Specific,violent confrontation on pedestrian walkway or footbridge,high,Violence
+P086,RLVS,Context Specific,scuffle occurring on outdoor public concrete staircase,high,Violence
+P087,RLVS,Context Specific,fight outside liquor store on dimly lit urban street,high,Violence
+P088,RLVS,Context Specific,violent clash on public bus between angry passengers,high,Violence
+P089,RLVS,Context Specific,altercation occurring beside outdoor automated teller machine,medium,Violence
+P090,RLVS,Context Specific,fight in urban alleyway with participants throwing punches,high,Violence
+P091,RLVS,Context Specific,street fight outside restaurant entrance late at evening,high,Violence
+P092,RLVS,Context Specific,altercation in multi-level parking garage structure,high,Violence
+P093,RLVS,Context Specific,confrontation between security guard and aggressive intruder,high,Violence
+P094,RLVS,Context Specific,street altercation where person pulls blunt weapon from jacket,high,Violence
+P095,RLVS,Context Specific,two drivers wrestling and punching on highway shoulder,high,Violence
+P096,RLVS,Context Specific,fight breaking out on crowded sidewalk in front of shop,high,Violence
+P097,RLVS,Context Specific,violent clash between two angry groups in town square,high,Violence
+P098,RLVS,Context Specific,physical altercation outside gas station convenience store,high,Violence
+P099,RLVS,Context Specific,brawl in public park pathway with punches exchanged,high,Violence
+P100,RLVS,Context Specific,heated roadside quarrel escalating to violent blows,high,Violence
+P101,RLVS,Non-Violence Control,peaceful pedestrian movement along city street sidewalk,high,NonViolence
+P102,RLVS,Non-Violence Control,people walking calmly across marked pedestrian crossing,high,NonViolence
+P103,RLVS,Non-Violence Control,pedestrians strolling along commercial shopping street,high,NonViolence
+P104,RLVS,Non-Violence Control,two people shaking hands and greeting each other outdoors,high,NonViolence
+P105,RLVS,Non-Violence Control,crowd of shoppers browsing goods in outdoor open market,high,NonViolence
+P106,RLVS,Non-Violence Control,people walking at relaxed pace down sunny urban sidewalk,high,NonViolence
+P107,RLVS,Non-Violence Control,pedestrians waiting quietly at traffic signal light,high,NonViolence
+P108,RLVS,Non-Violence Control,group of people walking together peacefully in public plaza,high,NonViolence
+P109,RLVS,Non-Violence Control,two pedestrians conversing amicably while walking down path,high,NonViolence
+P110,RLVS,Non-Violence Control,commuters boarding public transit bus in orderly manner,high,NonViolence
+P111,RLVS,Non-Violence Control,pedestrian walking past storefronts with shopping bags,high,NonViolence
+P112,RLVS,Non-Violence Control,everyday vehicular traffic and pedestrians sharing roadway,high,NonViolence
+P113,RLVS,Non-Violence Control,people sitting peacefully on public benches along sidewalk,high,NonViolence
+P114,RLVS,Non-Violence Control,calm pedestrian movement through public transit station,high,NonViolence
+P115,RLVS,Non-Violence Control,patrons walking in and out of convenience store calmly,high,NonViolence
+P116,RLVS,Non-Violence Control,clean public street with occasional moving pedestrian,high,NonViolence
+P117,RLVS,Non-Violence Control,people standing in orderly queue outside shop entrance,high,NonViolence
+P118,RLVS,Non-Violence Control,pedestrians holding umbrellas walking in light rainfall,high,NonViolence
+P119,RLVS,Non-Violence Control,two people walking side by side chatting pleasantly,high,NonViolence
+P120,RLVS,Non-Violence Control,peaceful night street view with occasional walking figure,high,NonViolence
+P121,RLVS,Non-Violence Control,shoppers walking calmly between market stalls,high,NonViolence
+P122,RLVS,Non-Violence Control,family strolling together peacefully along urban sidewalk,high,NonViolence
+P123,RLVS,Non-Violence Control,pedestrians waiting at bus stop shelter without conflict,high,NonViolence
+P124,RLVS,Non-Violence Control,people crossing paved street during pedestrian green phase,high,NonViolence
+P125,RLVS,Non-Violence Control,delivery courier walking briskly with package along pavement,high,NonViolence
+P126,RLVS,Non-Violence Control,individual checking smartphone while standing on sidewalk,high,NonViolence
+P127,RLVS,Non-Violence Control,peaceful crowd moving through public pedestrian concourse,high,NonViolence
+P128,RLVS,Non-Violence Control,pedestrians entering commercial building through main doors,high,NonViolence
+P129,RLVS,Non-Violence Control,calm street view with cars stopped at traffic light,high,NonViolence
+P130,RLVS,Non-Violence Control,people walking leisurely in public park walkway,high,NonViolence
+P131,RLVS,Non-Violence Control,commuters walking out of train station exit stairs,high,NonViolence
+P132,RLVS,Non-Violence Control,two individuals conversing calmly beside parked automobile,high,NonViolence
+P133,RLVS,Non-Violence Control,routine street surveillance of pedestrians and parked cars,high,NonViolence
+P134,RLVS,Non-Violence Control,pedestrians crossing road safely between slow moving cars,high,NonViolence
+P135,RLVS,Non-Violence Control,peaceful daytime street with normal vehicular traffic,high,NonViolence
+P136,RLVS,Non-Violence Control,people casually walking past outdoor cafe seating area,high,NonViolence
+P137,RLVS,Non-Violence Control,orderly movement of pedestrians through public square,high,NonViolence
+P138,RLVS,Non-Violence Control,store customer carrying plastic bags walking to parked car,high,NonViolence
+P139,RLVS,Non-Violence Control,pedestrian stepping onto sidewalk after crossing street,high,NonViolence
+P140,RLVS,Non-Violence Control,group of people waiting calmly near street intersection,high,NonViolence
+P141,RLVS,Non-Violence Control,calm commercial district sidewalk during afternoon hours,high,NonViolence
+P142,RLVS,Non-Violence Control,person strolling casually with hands in pockets on sidewalk,high,NonViolence
+P143,RLVS,Non-Violence Control,peaceful residential street with no pedestrian altercation,high,NonViolence
+P144,RLVS,Non-Violence Control,commuter waiting patiently on outdoor station platform,high,NonViolence
+P145,RLVS,Non-Violence Control,two pedestrians parting ways with wave on sidewalk,high,NonViolence
+P146,RLVS,Non-Violence Control,public walkway with calm pedestrians walking in both directions,high,NonViolence
+P147,RLVS,Non-Violence Control,routine urban street scene with zero violence or hostility,high,NonViolence
+P148,RLVS,Non-Violence Control,pedestrian crossing wide boulevard at designated crossing,high,NonViolence
+P149,RLVS,Non-Violence Control,people browsing outdoor fruit and vegetable market stalls,high,NonViolence
+P150,RLVS,Non-Violence Control,everyday peaceful activity of citizens walking in city,high,NonViolence
+P151,UCF-Crime,Robbery,armed robbery criminal holding up cashier at register,high,Robbery
+P152,UCF-Crime,Robbery,robber pointing handgun at convenience store employee,high,Robbery
+P153,UCF-Crime,Robbery,masked suspect demanding cash from register behind counter,high,Robbery
+P154,UCF-Crime,Robbery,cashier handing over paper bills to armed robber,high,Robbery
+P155,UCF-Crime,Robbery,two armed robbers holding up small grocery store,high,Robbery
+P156,UCF-Crime,Robbery,robber brandishing weapon and jumping over service counter,high,Robbery
+P157,UCF-Crime,Robbery,gas station cashier held at gunpoint late at night,high,Robbery
+P158,UCF-Crime,Robbery,armed robber threatening store staff with handgun,high,Robbery
+P159,UCF-Crime,Robbery,perpetrator pointing weapon at customer and cashier,high,Robbery
+P160,UCF-Crime,Robbery,robber demanding wallet and cash at store checkout,high,Robbery
+P161,UCF-Crime,Robbery,suspect threatening cashier with large knife or machete,high,Robbery
+P162,UCF-Crime,Robbery,masked robber grabbing cash drawer bills and fleeing,high,Robbery
+P163,UCF-Crime,Robbery,armed robbery at commercial counter captured on CCTV,high,Robbery
+P164,UCF-Crime,Robbery,two masked men robbing retail store clerk at gunpoint,high,Robbery
+P165,UCF-Crime,Robbery,pharmacy counter hold-up by armed perpetrator,high,Robbery
+P166,UCF-Crime,Robbery,criminal confronting cashier with weapon behind glass,high,Robbery
+P167,UCF-Crime,Robbery,robber in hooded jacket sprinting away with stolen money,high,Robbery
+P168,UCF-Crime,Robbery,liquor store armed robbery captured on surveillance camera,high,Robbery
+P169,UCF-Crime,Robbery,suspect pointing gun at register operator during robbery,high,Robbery
+P170,UCF-Crime,Robbery,armed robbery in progress at commercial business counter,high,Robbery
+P171,UCF-Crime,Shoplifting,customer discreetly concealing merchandise inside jacket,high,Shoplifting
+P172,UCF-Crime,Shoplifting,shopper stuffing merchandise into handbag in store aisle,high,Shoplifting
+P173,UCF-Crime,Shoplifting,person slipping bottle into coat pocket in retail store,high,Shoplifting
+P174,UCF-Crime,Shoplifting,shoplifter grabbing expensive items and sprinting out door,high,Shoplifting
+P175,UCF-Crime,Shoplifting,customer hiding store goods under clothing in aisle,high,Shoplifting
+P176,UCF-Crime,Shoplifting,individual taking item off shelf and placing in backpack,high,Shoplifting
+P177,UCF-Crime,Shoplifting,person walking out of store exit without paying for items,high,Shoplifting
+P178,UCF-Crime,Shoplifting,theft of merchandise from retail display shelf,high,Shoplifting
+P179,UCF-Crime,Shoplifting,shoplifter slipping cosmetics or small goods into pocket,high,Shoplifting
+P180,UCF-Crime,Shoplifting,person taking items off rack and concealing under arm,high,Shoplifting
+P181,UCF-Crime,Stealing,thief snatching unattended bag or purse in public venue,high,Stealing
+P182,UCF-Crime,Stealing,bicycle theft from outdoor metal bike parking rack,high,Stealing
+P183,UCF-Crime,Stealing,person stealing delivered package from front entrance,high,Stealing
+P184,UCF-Crime,Stealing,stealth theft of unattended smartphone from cafe table,high,Stealing
+P185,UCF-Crime,Stealing,pickpocket taking wallet from pocket of distracted person,high,Stealing
+P186,UCF-Crime,Stealing,thief cutting bicycle lock and riding away with bicycle,high,Stealing
+P187,UCF-Crime,Stealing,person taking items from back of parked truck bed,high,Stealing
+P188,UCF-Crime,Stealing,thief stealing belongings from parked vehicle,high,Stealing
+P189,UCF-Crime,Stealing,individual grabbing unattended backpack and walking off,high,Stealing
+P190,UCF-Crime,Stealing,theft of personal property captured on security camera,high,Stealing
+P191,UCF-Crime,Burglary,intruder prying open ground floor window at night,high,Burglary
+P192,UCF-Crime,Burglary,masked burglar forcing open commercial rear exit door,high,Burglary
+P193,UCF-Crime,Burglary,burglar climbing over security fence into private compound,high,Burglary
+P194,UCF-Crime,Burglary,forced entry through smashed glass front door of store,high,Burglary
+P195,UCF-Crime,Burglary,two burglars searching drawers inside dark commercial office,high,Burglary
+P196,UCF-Crime,Burglary,thief crawling under security shutter gate into closed shop,high,Burglary
+P197,UCF-Crime,Burglary,burglar flashlight illuminated inside dark retail room,high,Burglary
+P198,UCF-Crime,Burglary,intruder attempting door handle checks on parked vehicles in lot,high,Burglary
+P199,UCF-Crime,Burglary,burglary suspect breaking into office building after hours,high,Burglary
+P200,UCF-Crime,Burglary,forced entry into commercial warehouse storage area,high,Burglary
+P201,UCF-Crime,Burglary,intruder climbing through broken windowpane into building,high,Burglary
+P202,UCF-Crime,Burglary,suspect prying open commercial back door with crowbar,high,Burglary
+P203,UCF-Crime,Burglary,burglar rummaging through cabinets in dark store office,high,Burglary
+P204,UCF-Crime,Burglary,masked intruder creeping through hallway during break-in,high,Burglary
+P205,UCF-Crime,Burglary,burglary suspect fleeing through back door with stolen goods,high,Burglary
+P206,UCF-Crime,Arson,arsonist igniting commercial dumpster bin fire at night,high,Arson
+P207,UCF-Crime,Arson,person throwing flaming bottle device into building entrance,high,Arson
+P208,UCF-Crime,Arson,deliberate fire started outside commercial property,high,Arson
+P209,UCF-Crime,Arson,building engulfed in flames during deliberate arson blaze,high,Arson
+P210,UCF-Crime,Arson,suspect lighting fire on pavement and fleeing spreading flames,high,Arson
+P211,UCF-Crime,Arson,parked vehicle set on fire in driveway or parking area,high,Arson
+P212,UCF-Crime,Arson,smoke and growing fire inside building captured on CCTV,high,Arson
+P213,UCF-Crime,Vandalism,vandal spraying spray paint graffiti tag onto exterior wall,high,Vandalism
+P214,UCF-Crime,Vandalism,person smashing storefront glass window with heavy tool,high,Vandalism
+P215,UCF-Crime,Vandalism,individual scratching paint or damaging parked automobile,high,Vandalism
+P216,UCF-Crime,Vandalism,vandals smashing glass panels on street shelter,high,Vandalism
+P217,UCF-Crime,Vandalism,person deliberately damaging surveillance CCTV camera,high,Vandalism
+P218,UCF-Crime,Vandalism,suspect throwing rock through glass door of commercial shop,high,Vandalism
+P219,UCF-Crime,Vandalism,group of youths damaging public fixtures on sidewalk,high,Vandalism
+P220,UCF-Crime,Vandalism,deliberate destruction of commercial property outdoors,high,Vandalism
+P221,UCF-Crime,RoadAccidents,severe two-car collision at traffic intersection,high,RoadAccidents
+P222,UCF-Crime,RoadAccidents,speeding vehicle T-boning turning car at crossroads,high,RoadAccidents
+P223,UCF-Crime,RoadAccidents,pedestrian struck by vehicle while crossing roadway,high,RoadAccidents
+P224,UCF-Crime,RoadAccidents,vehicle rollover crash on multi-lane roadway,high,RoadAccidents
+P225,UCF-Crime,RoadAccidents,motorcyclist colliding with automobile at road crossing,high,RoadAccidents
+P226,UCF-Crime,RoadAccidents,car losing control and crashing into storefront or barrier,high,RoadAccidents
+P227,UCF-Crime,RoadAccidents,multi-vehicle collision at busy urban street junction,high,RoadAccidents
+P228,UCF-Crime,RoadAccidents,truck colliding with concrete barrier or light pole,high,RoadAccidents
+P229,UCF-Crime,RoadAccidents,hit-and-run driver striking pedestrian and driving off,high,RoadAccidents
+P230,UCF-Crime,RoadAccidents,car skidding on wet road surface and crashing into curb,high,RoadAccidents
+P231,UCF-Crime,RoadAccidents,head-on collision between two vehicles on two-lane road,high,RoadAccidents
+P232,UCF-Crime,RoadAccidents,vehicle rear-ending stopped car at traffic light,high,RoadAccidents
+P233,UCF-Crime,RoadAccidents,car spinning out of control across roadway lanes,high,RoadAccidents
+P234,UCF-Crime,RoadAccidents,driver crashing into roadside guardrail at high speed,high,RoadAccidents
+P235,UCF-Crime,RoadAccidents,traffic collision captured on intersection surveillance camera,high,RoadAccidents
+P236,UCF-Crime,Fighting,violent physical altercation between two males in hallway,high,Fighting
+P237,UCF-Crime,Fighting,punches thrown between individuals in commercial corridor,high,Fighting
+P238,UCF-Crime,Fighting,two individuals fighting on ground outside retail store,high,Fighting
+P239,UCF-Crime,Assault,violent unprovoked assault on solitary person in alley,high,Assault
+P240,UCF-Crime,Assault,attacker ambushing victim and punching them to the ground,high,Assault
+P241,UCF-Crime,Assault,suspect pushing person violently down onto sidewalk,high,Assault
+P242,UCF-Crime,Assault,assailants beating victim against wall or metal fence,high,Assault
+P243,UCF-Crime,Shooting,active shooter discharging firearm in public area,high,Shooting
+P244,UCF-Crime,Shooting,gunman firing shots from moving vehicle in drive-by,high,Shooting
+P245,UCF-Crime,Shooting,person drawing gun from waistband and firing shots,high,Shooting
+P246,UCF-Crime,Shooting,muzzle flash and gunfire exchanged in parking lot,high,Shooting
+P247,UCF-Crime,Shooting,victim falling to ground after being shot by gunman,high,Shooting
+P248,UCF-Crime,Shooting,shooting incident outside gas station captured on CCTV,high,Shooting
+P249,UCF-Crime,Explosion,massive blast explosion blowing out building windows,high,Explosion
+P250,UCF-Crime,Explosion,smoke plume and fiery blast in commercial facility,high,Explosion
+P251,UCF-Crime,Explosion,detonation of explosive device in roadside location,high,Explosion
+P252,UCF-Crime,Arrest,police officers tackling fleeing suspect to ground,high,Arrest
+P253,UCF-Crime,Arrest,law enforcement officers detaining suspect in handcuffs,high,Arrest
+P254,UCF-Crime,Arrest,multiple police cruisers surrounding stopped suspect vehicle,high,Arrest
+P255,UCF-Crime,Abuse,individual physically abusing person inside room,high,Abuse
+P256,UCF-Crime,Abuse,aggressive physical mistreatment captured on indoor camera,high,Abuse
+P257,UCF-Crime,Assault,mugger striking pedestrian with fists before grabbing bag,high,Assault
+P258,UCF-Crime,Assault,attacker dragging victim to ground in violent struggle,high,Assault
+P259,UCF-Crime,Fighting,physical brawl between patrons spilling into parking lot,high,Fighting
+P260,UCF-Crime,Shooting,armed confrontation between two individuals firing weapons,high,Shooting
+P261,UCF-Crime,Normal,peaceful pedestrian walking through store entrance lobby,high,Normal
+P262,UCF-Crime,Normal,routine grocery shopping along retail store aisles,high,Normal
+P263,UCF-Crime,Normal,customer paying cashier at register with cash or card,high,Normal
+P264,UCF-Crime,Normal,orderly traffic flow through signalized road intersection,high,Normal
+P265,UCF-Crime,Normal,cars parked normally in commercial shopping center lot,high,Normal
+P266,UCF-Crime,Normal,pedestrians strolling past commercial storefront windows,high,Normal
+P267,UCF-Crime,Normal,store employee restocking shelves with merchandise,high,Normal
+P268,UCF-Crime,Normal,customer using automated teller machine without incident,high,Normal
+P269,UCF-Crime,Normal,routine entry and exit of patrons through sliding glass doors,high,Normal
+P270,UCF-Crime,Normal,security guard walking regular patrol through facility corridor,high,Normal
+P271,UCF-Crime,Normal,vehicle pulling smoothly into marked parking space,high,Normal
+P272,UCF-Crime,Normal,car exiting parking facility after payment,high,Normal
+P273,UCF-Crime,Normal,commuters waiting peacefully at outdoor bus stop,high,Normal
+P274,UCF-Crime,Normal,cashier scanning items and bagging goods for customer,high,Normal
+P275,UCF-Crime,Normal,pedestrian walking calmly along commercial sidewalk,high,Normal
+P276,UCF-Crime,Normal,quiet warehouse storage aisle with stationary pallets,high,Normal
+P277,UCF-Crime,Normal,office employees walking calmly through hallway,high,Normal
+P278,UCF-Crime,Normal,delivery worker carrying box into reception entrance,high,Normal
+P279,UCF-Crime,Normal,customer examining product packaging before placing in basket,high,Normal
+P280,UCF-Crime,Normal,calm daytime surveillance view of commercial street,high,Normal
+P281,UCF-Crime,Normal,driver refueling vehicle at outdoor gas station pump,high,Normal
+P282,UCF-Crime,Normal,pedestrians walking calmly in commercial retail plaza,high,Normal
+P283,UCF-Crime,Normal,staff member cleaning floor with mop in public hallway,high,Normal
+P284,UCF-Crime,Normal,driver signaling and making standard turn at intersection,high,Normal
+P285,UCF-Crime,Normal,peaceful night view of empty parking lot under lighting,high,Normal
+P286,UCF-Crime,Normal,bystanders chatting casually outside store entrance,high,Normal
+P287,UCF-Crime,Normal,pedestrian carrying umbrella walking on sidewalk in rain,high,Normal
+P288,UCF-Crime,Normal,hotel guest checking in at reception front desk,high,Normal
+P289,UCF-Crime,Normal,pedestrian walking past stationary parked automobiles,high,Normal
+P290,UCF-Crime,Normal,store employee organizing merchandise neatly in aisle,high,Normal
+P291,UCF-Crime,Normal,students walking peacefully along campus pathway,high,Normal
+P292,UCF-Crime,Normal,customer returning shopping cart to designated stall,high,Normal
+P293,UCF-Crime,Normal,driver waiting patiently at red traffic signal,high,Normal
+P294,UCF-Crime,Normal,routine unloading of commercial delivery van,high,Normal
+P295,UCF-Crime,Normal,cyclist riding safely down road following traffic flow,high,Normal
+P296,UCF-Crime,Normal,commuter waiting seated on train platform bench,high,Normal
+P297,UCF-Crime,Normal,orderly line of customers waiting at checkout counter,high,Normal
+P298,UCF-Crime,Normal,calm commercial street during midday hours,high,Normal
+P299,UCF-Crime,Normal,pedestrian pushing shopping cart along paved walkway,high,Normal
+P300,UCF-Crime,Normal,well-lit commercial corridor with no anomalous activity,high,Normal
+P301,UCF-ARG,Boxing,person in fighting stance shadowboxing throwing forward punches with fists,high,boxing
+P302,UCF-ARG,Boxing,aerial drone view of individual practicing shadowboxing throwing punches,high,aerial_boxing
+P303,UCF-ARG,Boxing,rooftop high-angle surveillance of person shadowboxing in parking lot,high,rooftop_boxing
+P304,UCF-ARG,Boxing,ground camera view of person throwing rapid boxing punches with fists,high,ground_boxing
+P305,UCF-ARG,Boxing,person throwing left and right hook punches across parking tarmac,high,boxing
+P306,UCF-ARG,Boxing,individual bouncing on toes and punching air in outdoor testing area,high,boxing
+P307,UCF-ARG,Boxing,overhead aerial perspective of person executing rapid boxing jabs,high,aerial_boxing
+P308,UCF-ARG,Boxing,person executing boxing footwork and punch combinations on pavement,high,boxing
+P309,UCF-ARG,Boxing,high angle rooftop camera tracking person shadowboxing outdoors,high,rooftop_boxing
+P310,UCF-ARG,Boxing,ground level camera view of person shadowboxing and throwing punches,high,ground_boxing
+P311,UCF-ARG,Carrying,person holding and carrying a heavy box container with both hands while walking,high,carrying
+P312,UCF-ARG,Carrying,aerial drone overhead view of individual carrying cardboard box across tarmac,high,aerial_carrying
+P313,UCF-ARG,Carrying,rooftop surveillance footage of person carrying item across parking lot,high,rooftop_carrying
+P314,UCF-ARG,Carrying,ground level camera showing person walking with box carried in both hands,high,ground_carrying
+P315,UCF-ARG,Carrying,individual transporting container box across outdoor testing facility,high,carrying
+P316,UCF-ARG,Carrying,person holding bulky package in front of chest while walking across pavement,high,carrying
+P317,UCF-ARG,Carrying,high angle view of person walking across lot while carrying container in hands,high,rooftop_carrying
+P318,UCF-ARG,Carrying,aerial perspective of carrier transporting box across tarmac pavement,high,aerial_carrying
+P319,UCF-ARG,Carrying,person carrying equipment box with both arms from one point to another,high,carrying
+P320,UCF-ARG,Carrying,ground perspective of individual carrying cargo box across parking area,high,ground_carrying
+P321,UCF-ARG,Clapping,person standing stationary repeatedly clapping palms together in front of chest,high,clapping
+P322,UCF-ARG,Clapping,aerial camera view of individual clapping hands together standing in parking lot,high,aerial_clapping
+P323,UCF-ARG,Clapping,rooftop surveillance of person standing still and clapping hands outdoors,high,rooftop_clapping
+P324,UCF-ARG,Clapping,ground level view of person applauding by clapping both hands together,high,ground_clapping
+P325,UCF-ARG,Clapping,individual rhythmically clapping hands together in front of body,high,clapping
+P326,UCF-ARG,Clapping,person bringing palms together in continuous clapping gesture,high,clapping
+P327,UCF-ARG,Clapping,overhead aerial view of stationary figure clapping hands on tarmac,high,aerial_clapping
+P328,UCF-ARG,Clapping,elevated rooftop observation of subject clapping hands together,high,rooftop_clapping
+P329,UCF-ARG,Clapping,front ground view of person clapping hands rhythmically in front of torso,high,ground_clapping
+P330,UCF-ARG,Clapping,subject standing on pavement clapping hands together repeatedly,high,clapping
+P331,UCF-ARG,Digging,person using a shovel spade to dig a hole into dirt in outdoor facility,high,digging
+P332,UCF-ARG,Digging,aerial perspective of individual digging hole with shovel in ground,high,aerial_digging
+P333,UCF-ARG,Digging,rooftop camera tracking person thrusting shovel into ground dirt,high,rooftop_digging
+P334,UCF-ARG,Digging,ground level camera view of person digging with shovel spade in ground,high,ground_digging
+P335,UCF-ARG,Digging,individual using foot to push shovel blade into ground dirt,high,digging
+P336,UCF-ARG,Digging,repetitive digging motion scooping and lifting dirt with shovel,high,digging
+P337,UCF-ARG,Digging,high angle rooftop surveillance of person excavating dirt with shovel,high,rooftop_digging
+P338,UCF-ARG,Digging,drone camera capturing person working with shovel digging ground,high,aerial_digging
+P339,UCF-ARG,Digging,person bending down to scoop soil with shovel tool in outdoor area,high,digging
+P340,UCF-ARG,Digging,ground perspective of subject digging hole with shovel blade,high,ground_digging
+P341,UCF-ARG,Jogging,person jogging at an athletic continuous medium running pace across tarmac,high,jogging
+P342,UCF-ARG,Jogging,aerial drone tracking jogger moving at medium pace across parking lot,high,aerial_jogging
+P343,UCF-ARG,Jogging,rooftop camera observing person jogging steadily across outdoor area,high,rooftop_jogging
+P344,UCF-ARG,Jogging,ground camera angle of individual jogging at moderate speed across frame,high,ground_jogging
+P345,UCF-ARG,Jogging,moderate speed jogging exercise across open parking facility,high,jogging
+P346,UCF-ARG,Jogging,person in athletic clothing jogging at steady pace across pavement,high,jogging
+P347,UCF-ARG,Jogging,aerial overhead view of human figure jogging steadily on tarmac,high,aerial_jogging
+P348,UCF-ARG,Jogging,elevated rooftop perspective of runner pacing at moderate speed,high,rooftop_jogging
+P349,UCF-ARG,Jogging,jogger traversing across ground camera frame at moderate speed,high,ground_jogging
+P350,UCF-ARG,Jogging,continuous jogging movement across parking surveillance scene,high,jogging
+P351,UCF-ARG,Open-Trunk,person walking up to parked vehicle and opening car trunk lid,high,open-trunk
+P352,UCF-ARG,Open-Trunk,aerial drone view of individual lifting trunk lid of automobile,high,aerial_open-trunk
+P353,UCF-ARG,Open-Trunk,rooftop camera tracking person opening rear hatch of parked car,high,rooftop_open-trunk
+P354,UCF-ARG,Open-Trunk,ground level surveillance of person unlatching car trunk hatch,high,ground_open-trunk
+P355,UCF-ARG,Open-Trunk,subject walking to rear of parked sedan and raising trunk lid,high,open-trunk
+P356,UCF-ARG,Open-Trunk,person opening and closing vehicle rear luggage compartment,high,open-trunk
+P357,UCF-ARG,Open-Trunk,high angle rooftop perspective of car trunk opening event in lot,high,rooftop_open-trunk
+P358,UCF-ARG,Open-Trunk,drone monitoring individual accessing parked car trunk,high,aerial_open-trunk
+P359,UCF-ARG,Open-Trunk,person lifting rear hatchback trunk door of parked automobile,high,open-trunk
+P360,UCF-ARG,Open-Trunk,ground perspective of subject interacting with vehicle trunk lid,high,ground_open-trunk
+P361,UCF-ARG,Running,person sprinting and running fast at maximum speed across parking lot,high,running
+P362,UCF-ARG,Running,aerial drone tracking fast running sprinter across tarmac,high,aerial_running
+P363,UCF-ARG,Running,rooftop camera recording high-speed runner sprinting across pavement,high,rooftop_running
+P364,UCF-ARG,Running,ground level camera view of person sprinting fast across frame,high,ground_running
+P365,UCF-ARG,Running,individual running with long energetic sprint strides outdoors,high,running
+P366,UCF-ARG,Running,high speed sprint across outdoor facility surveillance area,high,running
+P367,UCF-ARG,Running,drone camera following fast runner moving rapidly through frame,high,aerial_running
+P368,UCF-ARG,Running,elevated rooftop view of person dashing at full sprint across tarmac,high,rooftop_running
+P369,UCF-ARG,Running,person running across ground camera view at high velocity,high,ground_running
+P370,UCF-ARG,Running,rapid sprint running movement captured across surveillance scene,high,running
+P371,UCF-ARG,Throwing,person throwing an object or ball forward with overhead arm swing,high,throwing
+P372,UCF-ARG,Throwing,aerial view of individual winding up arm and throwing item forward,high,aerial_throwing
+P373,UCF-ARG,Throwing,rooftop camera tracking person throwing projectile across parking lot,high,rooftop_throwing
+P374,UCF-ARG,Throwing,ground level perspective of overhand throwing motion with arm,high,ground_throwing
+P375,UCF-ARG,Throwing,individual throwing object forward with full body follow-through,high,throwing
+P376,UCF-ARG,Throwing,person launching thrown object through the air in testing area,high,throwing
+P377,UCF-ARG,Throwing,high angle rooftop observation of person executing overhead throw,high,rooftop_throwing
+P378,UCF-ARG,Throwing,drone overhead view of person executing throwing gesture with arm,high,aerial_throwing
+P379,UCF-ARG,Throwing,person throwing item forcefully across tarmac pavement,high,throwing
+P380,UCF-ARG,Throwing,side profile of person executing athletic overhand throw gesture,high,ground_throwing
+P381,UCF-ARG,Walking,person walking slowly at calm normal pedestrian walking pace,high,walking
+P382,UCF-ARG,Walking,aerial drone footage of solitary pedestrian walking across tarmac,high,aerial_walking
+P383,UCF-ARG,Walking,rooftop surveillance of person walking steadily across parking lot,high,rooftop_walking
+P384,UCF-ARG,Walking,ground camera angle showing individual walking calmly across frame,high,ground_walking
+P385,UCF-ARG,Walking,pedestrian strolling at relaxed pace across outdoor paved space,high,walking
+P386,UCF-ARG,Walking,person traversing tarmac pavement at normal walking speed,high,walking
+P387,UCF-ARG,Walking,overhead view of human figure walking calmly across pavement,high,aerial_walking
+P388,UCF-ARG,Walking,high angle rooftop view of pedestrian walking across parking area,high,rooftop_walking
+P389,UCF-ARG,Walking,person walking calmly across ground surveillance camera view,high,ground_walking
+P390,UCF-ARG,Walking,steady continuous walking motion across paved testing facility,high,walking
+P391,UCF-ARG,Waving,person standing and waving raised hand overhead high in the air,high,waving
+P392,UCF-ARG,Waving,aerial camera view of individual waving arm overhead in greeting,high,aerial_waving
+P393,UCF-ARG,Waving,rooftop surveillance of person standing and waving single hand overhead,high,rooftop_waving
+P394,UCF-ARG,Waving,ground level camera view of person waving hand raised high above head,high,ground_waving
+P395,UCF-ARG,Waving,individual signaling by waving raised forearm overhead back and forth,high,waving
+P396,UCF-ARG,Waving,person waving back and forth with arm raised high above shoulder,high,waving
+P397,UCF-ARG,Waving,overhead drone perspective of waving figure with raised arm in lot,high,aerial_waving
+P398,UCF-ARG,Waving,elevated rooftop observation of person waving hand high in air,high,rooftop_waving
+P399,UCF-ARG,Waving,subject standing stationary on tarmac waving right hand overhead,high,waving
+P400,UCF-ARG,Waving,person waving raised hand to attract attention in open parking lot,high,ground_waving
+P401,TinyVIRAT,Walking,person walking slowly across parking lot in surveillance view,high,activity_walking
+P402,TinyVIRAT,Walking,individual walking calmly along outdoor facility walkway,high,activity_walking
+P403,TinyVIRAT,Walking,pedestrian walking past stationary parked cars in lot,high,activity_walking
+P404,TinyVIRAT,Walking,person traversing wide asphalt driveway towards building,high,activity_walking
+P405,TinyVIRAT,Walking,two people walking side by side across facility parking area,high,activity_walking
+P406,TinyVIRAT,Walking,pedestrian crossing parking driving lane on foot,high,activity_walking
+P407,TinyVIRAT,Walking,person walking along sidewalk adjacent to parked vehicles,high,activity_walking
+P408,TinyVIRAT,Walking,individual walking away from vehicle across open parking space,high,activity_walking
+P409,TinyVIRAT,Walking,person walking steadily across outdoor surveillance scene,high,activity_walking
+P410,TinyVIRAT,Walking,pedestrian walking diagonally across paved parking area,high,activity_walking
+P411,TinyVIRAT,Walking,person in casual clothes walking along perimeter fence,high,activity_walking
+P412,TinyVIRAT,Walking,individual walking towards facility door entrance,high,activity_walking
+P413,TinyVIRAT,Walking,pedestrian walking calmly past light pole in parking lot,high,activity_walking
+P414,TinyVIRAT,Walking,person walking briskly across paved lot during daytime,high,activity_walking
+P415,TinyVIRAT,Walking,individual walking past row of parked sedans and SUVs,high,activity_walking
+P416,TinyVIRAT,Walking,pedestrian strolling at relaxed pace across facility grounds,high,activity_walking
+P417,TinyVIRAT,Walking,person walking between two rows of parked vehicles,high,activity_walking
+P418,TinyVIRAT,Walking,individual traversing open tarmac towards building walkway,high,activity_walking
+P419,TinyVIRAT,Walking,person walking across asphalt under bright outdoor sunlight,high,activity_walking
+P420,TinyVIRAT,Walking,pedestrian walking past building corner into parking lot,high,activity_walking
+P421,TinyVIRAT,Walking,person walking alone across quiet outdoor facility lot,high,activity_walking
+P422,TinyVIRAT,Walking,individual walking past stationary truck in parking area,high,activity_walking
+P423,TinyVIRAT,Walking,two individuals walking together towards facility entrance,high,activity_walking
+P424,TinyVIRAT,Walking,person walking steadily across wide camera surveillance field,high,activity_walking
+P425,TinyVIRAT,Walking,pedestrian walking along paved path bordering facility lot,high,activity_walking
+P426,TinyVIRAT,Carrying,person carrying heavy box or container with both hands,high,activity_carrying
+P427,TinyVIRAT,Carrying,individual carrying bulky cardboard package across parking lot,high,activity_carrying
+P428,TinyVIRAT,Carrying,person walking while carrying large bag in hand,high,activity_carrying
+P429,TinyVIRAT,Carrying,worker carrying equipment or tools across facility grounds,high,activity_carrying
+P430,TinyVIRAT,Carrying,individual transporting container box from vehicle to building,high,activity_carrying
+P431,TinyVIRAT,Carrying,person holding heavy cargo load in front of chest while walking,high,Transport_HeavyCarry
+P432,TinyVIRAT,Carrying,pedestrian carrying backpack and walking through parking lot,high,activity_carrying
+P433,TinyVIRAT,Carrying,person carrying luggage bag while crossing outdoor lot,high,activity_carrying
+P434,TinyVIRAT,Carrying,individual carrying parcel under arm while walking past cars,high,activity_carrying
+P435,TinyVIRAT,Carrying,worker carrying supplies across parking lot pavement,high,activity_carrying
+P436,TinyVIRAT,Carrying,person walking while carrying bucket or container by handle,high,activity_carrying
+P437,TinyVIRAT,Carrying,individual carrying heavy rectangular crate across facility,high,Transport_HeavyCarry
+P438,TinyVIRAT,Carrying,person holding bag in one hand while walking across lot,high,activity_carrying
+P439,TinyVIRAT,Carrying,pedestrian transporting awkward bulky object across pavement,high,activity_carrying
+P440,TinyVIRAT,Carrying,person carrying tool kit while moving between parked vehicles,high,activity_carrying
+P441,TinyVIRAT,Carrying,individual walking across parking lot carrying folded item,high,activity_carrying
+P442,TinyVIRAT,Carrying,person carrying box container towards parked vehicle,high,activity_carrying
+P443,TinyVIRAT,Carrying,worker carrying maintenance equipment in outdoor lot,high,activity_carrying
+P444,TinyVIRAT,Carrying,person carrying heavy bag across camera view,high,activity_carrying
+P445,TinyVIRAT,Carrying,individual walking with parcel carried in both arms,high,activity_carrying
+P446,TinyVIRAT,Vehicle Interaction,person opening car door and getting inside vehicle,high,Entering
+P447,TinyVIRAT,Vehicle Interaction,driver exiting vehicle and shutting driver side door,high,Exiting
+P448,TinyVIRAT,Vehicle Interaction,passenger stepping out of parked car into parking lot,high,Exiting
+P449,TinyVIRAT,Vehicle Interaction,person opening trunk lid of parked vehicle,high,Opening
+P450,TinyVIRAT,Vehicle Interaction,individual closing trunk lid of car after loading item,high,Closing
+P451,TinyVIRAT,Vehicle Interaction,person walking up to parked vehicle and opening door,high,Opening
+P452,TinyVIRAT,Vehicle Interaction,driver shutting car door and walking away across lot,high,Closing
+P453,TinyVIRAT,Vehicle Interaction,person loading box into trunk of parked car,high,Interacts
+P454,TinyVIRAT,Vehicle Interaction,individual unloading item from vehicle trunk,high,Interacts
+P455,TinyVIRAT,Vehicle Interaction,person opening rear door of parked SUV to place bag,high,Opening
+P456,TinyVIRAT,Vehicle Interaction,passenger entering vehicle through front passenger door,high,Entering
+P457,TinyVIRAT,Vehicle Interaction,driver stepping out of car and standing beside vehicle,high,Exiting
+P458,TinyVIRAT,Vehicle Interaction,person standing at open vehicle trunk reaching inside,high,Interacts
+P459,TinyVIRAT,Vehicle Interaction,individual shutting car door firmly before walking off,high,Closing
+P460,TinyVIRAT,Vehicle Interaction,person reaching into parked vehicle through open door,high,Interacts
+P461,TinyVIRAT,Vehicle Interaction,driver getting inside car and closing door behind them,high,Entering
+P462,TinyVIRAT,Vehicle Interaction,person retrieving belongings from back seat of car,high,Interacts
+P463,TinyVIRAT,Vehicle Interaction,two people standing next to open vehicle conversing,high,Interacts
+P464,TinyVIRAT,Vehicle Interaction,individual closing hatchback trunk of parked automobile,high,Closing
+P465,TinyVIRAT,Vehicle Interaction,person stepping out of vehicle on passenger side,high,Exiting
+P466,TinyVIRAT,Vehicle Movement,vehicle driving and moving through parking lot scene,high,vehicle_moving
+P467,TinyVIRAT,Vehicle Movement,car slowing down to a complete stop in parking area,high,vehicle_stopping
+P468,TinyVIRAT,Vehicle Movement,automobile starting to move and accelerating forward,high,vehicle_starting
+P469,TinyVIRAT,Vehicle Movement,vehicle executing left turn at parking facility intersection,high,vehicle_turning_left
+P470,TinyVIRAT,Vehicle Movement,car making right turn into parking lot driveway,high,vehicle_turning_right
+P471,TinyVIRAT,Vehicle Movement,dark colored sedan driving slowly down facility lane,high,vehicle_moving
+P472,TinyVIRAT,Vehicle Movement,white van traveling through outdoor surveillance area,high,vehicle_moving
+P473,TinyVIRAT,Vehicle Movement,vehicle coming to a stop beside curb in parking lot,high,vehicle_stopping
+P474,TinyVIRAT,Vehicle Movement,car backing out of marked parking space into lane,high,vehicle_moving
+P475,TinyVIRAT,Vehicle Movement,pickup truck driving past building surveillance camera,high,vehicle_moving
+P476,TinyVIRAT,Vehicle Movement,vehicle pulling into marked parking slot and stopping,high,vehicle_stopping
+P477,TinyVIRAT,Vehicle Movement,automobile driving down access driveway between buildings,high,vehicle_moving
+P478,TinyVIRAT,Vehicle Movement,car making gradual turn in open parking lot area,high,vehicle_moving
+P479,TinyVIRAT,Vehicle Movement,vehicle starting up and pulling away from parked position,high,vehicle_starting
+P480,TinyVIRAT,Vehicle Movement,SUV driving steadily across facility camera field of view,high,vehicle_moving
+P481,TinyVIRAT,Vehicle Movement,car halting at driveway junction before proceeding,high,vehicle_stopping
+P482,TinyVIRAT,Vehicle Movement,commercial van turning left onto facility roadway,high,vehicle_turning_left
+P483,TinyVIRAT,Vehicle Movement,automobile making sharp right turn in parking lot,high,vehicle_turning_right
+P484,TinyVIRAT,Vehicle Movement,vehicle moving continuously through facility grounds,high,vehicle_moving
+P485,TinyVIRAT,Vehicle Movement,car stopping in driving lane with brake lights illuminated,high,vehicle_stopping
+P486,TinyVIRAT,Interactions,person standing stationary in parking lot looking around,high,activity_standing
+P487,TinyVIRAT,Interactions,two individuals standing together talking in parking facility,high,Talking
+P488,TinyVIRAT,Interactions,person standing near parked car for extended period,high,activity_standing
+P489,TinyVIRAT,Interactions,two people meeting and conversing outside building entrance,high,Talking
+P490,TinyVIRAT,Interactions,individual standing still holding mobile phone in hands,high,specialized_texting_phone
+P491,TinyVIRAT,Interactions,person talking on mobile phone while walking across lot,high,specialized_talking_phone
+P492,TinyVIRAT,Interactions,two people exchanging an object while standing in lot,high,Interacts
+P493,TinyVIRAT,Interactions,person gesturing with hands while conversing with another,high,activity_gesturing
+P494,TinyVIRAT,Interactions,worker standing in parking lot using handheld tool,high,specialized_using_tool
+P495,TinyVIRAT,Interactions,person standing beside parked vehicle waiting for someone,high,activity_standing
+P496,TinyVIRAT,Interactions,three people standing in group chatting in parking area,high,Talking
+P497,TinyVIRAT,Interactions,individual pausing and looking at phone screen in lot,high,specialized_texting_phone
+P498,TinyVIRAT,Interactions,person running briskly across parking lot towards vehicle,high,activity_running
+P499,TinyVIRAT,Interactions,individual pulling or maneuvering an object across pavement,high,Pull
+P500,TinyVIRAT,Interactions,person standing stationary observing activity in lot,high,activity_standing

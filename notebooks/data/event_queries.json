@@ -1,0 +1,26 @@
+{
+  "rlvs": [
+    {"query": "two people fighting violently on street", "target_class": "Violence", "difficulty": "hard"},
+    {"query": "physical assault and punching incident", "target_class": "Violence", "difficulty": "medium"},
+    {"query": "aggressive brawl between individuals", "target_class": "Violence", "difficulty": "medium"},
+    {"query": "people walking peacefully on pedestrian walkway", "target_class": "NonViolence", "difficulty": "easy"},
+    {"query": "normal crowd standing near outdoor shop", "target_class": "NonViolence", "difficulty": "easy"},
+    {"query": "friends greeting and shaking hands", "target_class": "NonViolence", "difficulty": "medium"}
+  ],
+  "ucf_arg": [
+    {"query": "person boxing training outdoor", "target_class": "boxing", "viewpoint": "aerial"},
+    {"query": "aerial surveillance of person jogging across lawn", "target_class": "jogging", "viewpoint": "aerial"},
+    {"query": "person digging into ground with shovel", "target_class": "digging", "viewpoint": "ground"},
+    {"query": "person opening and closing car trunk", "target_class": "openclosetrunk", "viewpoint": "ground"},
+    {"query": "rooftop camera capturing person waving hands", "target_class": "waving", "viewpoint": "rooftop"},
+    {"query": "person throwing an object forward", "target_class": "throwing", "viewpoint": "rooftop"},
+    {"query": "person carrying large heavy box", "target_class": "carrying", "viewpoint": "ground"}
+  ],
+  "tinyvirat": [
+    {"query": "vehicle turning at intersection in parking lot", "target_class": "vehicle_turning", "difficulty": "hard"},
+    {"query": "person entering building through front entrance", "target_class": "person_entering_building", "difficulty": "medium"},
+    {"query": "individual getting into parked car", "target_class": "person_entering_vehicle", "difficulty": "medium"},
+    {"query": "person unloading heavy cargo from truck", "target_class": "person_unloading_vehicle", "difficulty": "hard"},
+    {"query": "group of people loitering near facility gate", "target_class": "crowd_gathering", "difficulty": "hard"}
+  ]
+}

@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "P001",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "two females in aggressive physical altercation on sidewalk",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P002",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "two women wrestling and pulling hair in street dispute",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P003",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "physical fight between two women outside storefront",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P004",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "young women exchanging strikes and grappling on pavement",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P005",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "female knocking opponent to ground during heated fight",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P006",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "two women trading punches near parked cars on roadside",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P007",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "physical confrontation between two females in public alley",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P008",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "two women grappling and falling onto asphalt pavement",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P009",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "female shoving opponent backwards against brick building wall",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P010",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "heated scuffle between two females shouting on street corner",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P011",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "two women exchanging slaps and punches in public area",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P012",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "bystanders attempting to separate two fighting females",
+    "specificity": "medium",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P013",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "aggressive woman dragging opponent down by clothing",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P014",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "two females rolling and wrestling on concrete ground",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P015",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "sudden violent confrontation between two women at night",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P016",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "two men engaged in fistfight on public street sidewalk",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P017",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "young men trading heavy punches on asphalt pavement",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P018",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "tall male punching opponent in face repeatedly",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P019",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "two men brawling violently outside commercial building",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P020",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "man pinning opponent to ground and delivering strikes",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P021",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "two men arguing aggressively before throwing punches",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P022",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "shirtless men engaged in aggressive street brawl",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P023",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "male knocking opponent down onto pavement with punch",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P024",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "two men grappling and wrestling on dusty roadside",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P025",
+    "dataset": "RLVS",
+    "category": "Gender Altercation",
+    "query": "man kicking opponent who is defenseless on the ground",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P026",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "large crowd of people fighting outside building entrance",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P027",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "chaotic mass brawl with multiple individuals throwing punches",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P028",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "three attackers assaulting solitary victim on sidewalk",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P029",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "group of youths beating person lying on street pavement",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P030",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "chaotic melee in alleyway with several people fighting",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P031",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "two opposing groups clashing in aggressive street brawl",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P032",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "bystanders trying to pull brawling men apart in crowded street",
+    "specificity": "medium",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P033",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "multiple individuals kicking and punching each other outdoors",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P034",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "violent mob surrounding and assaulting an individual",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P035",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "group brawl spilling over onto active roadway",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P036",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "several people fighting and falling over curbs on street",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P037",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "large group altercation on public urban street corner",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P038",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "chaotic fight with people falling onto parked vehicles",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P039",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "multiple simultaneous physical fights occurring in street crowd",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P040",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "crowd dispersing in panic as street brawl escalates",
+    "specificity": "medium",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P041",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "several males stomping on victim lying flat on concrete",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P042",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "chaotic scuffle between security guards and unruly patrons",
+    "specificity": "medium",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P043",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "group of people throwing bottles and punches during angry clash",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P044",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "intense street rumble between two rival groups of youths",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P045",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "escalating fistfight in middle of crowded night market street",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P046",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "multiple attackers surrounding and kicking trapped person",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P047",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "chaotic crowd push and shove turning into wild brawl",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P048",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "bystanders screaming as multiple people brawl on pavement",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P049",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "bar patrons fighting violently on sidewalk outside venue",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P050",
+    "dataset": "RLVS",
+    "category": "Group Brawl",
+    "query": "street brawl with multiple participants exchanging blows",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P051",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "person delivering high kick to opponent's upper body",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P052",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "fighter landing repetitive right hook punches on opponent",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P053",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "tackle and violent takedown onto concrete pavement",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P054",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "man chokeholding opponent against exterior building wall",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P055",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "aggressive headbutt during face-to-face altercation",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P056",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "person swinging wooden stick weapon at opponent in fight",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P057",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "attacker swinging metal pipe during street assault",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P058",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "fighter sweeping legs of opponent causing violent fall",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P059",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "individual repeatedly kneeing opponent in body during clinch",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P060",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "person grabbing opponent's shirt collar and punching face",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P061",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "violent slam of opponent onto hard asphalt roadway",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P062",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "attacker landing forceful elbow strike to opponent's head",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P063",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "two people locked in standing headlock struggle on sidewalk",
+    "specificity": "medium",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P064",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "person throwing blunt object at opponent during dispute",
+    "specificity": "medium",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P065",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "assailant kicking person repeatedly while victim is on ground",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P066",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "victim attempting to shield head while being struck with fists",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P067",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "wild swinging punches thrown between two angry combatants",
+    "specificity": "medium",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P068",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "two fighters exchanging rapid boxing combinations in street",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P069",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "person shoving opponent backwards onto car hood violently",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P070",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "attacker stomping forcefully on victim on concrete ground",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P071",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "person grappling opponent into chokehold on the ground",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P072",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "violent pushing contest escalating rapidly into fistfight",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P073",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "person retaliating with aggressive kick to torso",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P074",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "two fighters rolling and grappling in dirt roadside ditch",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P075",
+    "dataset": "RLVS",
+    "category": "Action Mechanics",
+    "query": "man slapping opponent hard across face sparking fight",
+    "specificity": "medium",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P076",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "road rage altercation between two angry stopped drivers",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P077",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "driver exiting vehicle to physically assault another motorist",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P078",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "physical fight occurring at gas station pump island",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P079",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "violent altercation in convenience store parking lot at night",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P080",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "fight between two motorcyclists after roadside collision",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P081",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "brawl breaking out inside public transit bus or train",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P082",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "street fight illuminated by headlights of stopped traffic",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P083",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "altercation on commercial store sidewalk late at night",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P084",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "physical fight taking place on dirt road shoulder",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P085",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "violent confrontation on pedestrian walkway or footbridge",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P086",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "scuffle occurring on outdoor public concrete staircase",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P087",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "fight outside liquor store on dimly lit urban street",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P088",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "violent clash on public bus between angry passengers",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P089",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "altercation occurring beside outdoor automated teller machine",
+    "specificity": "medium",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P090",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "fight in urban alleyway with participants throwing punches",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P091",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "street fight outside restaurant entrance late at evening",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P092",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "altercation in multi-level parking garage structure",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P093",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "confrontation between security guard and aggressive intruder",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P094",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "street altercation where person pulls blunt weapon from jacket",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P095",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "two drivers wrestling and punching on highway shoulder",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P096",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "fight breaking out on crowded sidewalk in front of shop",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P097",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "violent clash between two angry groups in town square",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P098",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "physical altercation outside gas station convenience store",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P099",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "brawl in public park pathway with punches exchanged",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P100",
+    "dataset": "RLVS",
+    "category": "Context Specific",
+    "query": "heated roadside quarrel escalating to violent blows",
+    "specificity": "high",
+    "target_context": "Violence"
+  },
+  {
+    "id": "P101",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "peaceful pedestrian movement along city street sidewalk",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P102",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "people walking calmly across marked pedestrian crossing",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P103",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "pedestrians strolling along commercial shopping street",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P104",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "two people shaking hands and greeting each other outdoors",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P105",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "crowd of shoppers browsing goods in outdoor open market",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P106",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "people walking at relaxed pace down sunny urban sidewalk",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P107",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "pedestrians waiting quietly at traffic signal light",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P108",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "group of people walking together peacefully in public plaza",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P109",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "two pedestrians conversing amicably while walking down path",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P110",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "commuters boarding public transit bus in orderly manner",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P111",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "pedestrian walking past storefronts with shopping bags",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P112",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "everyday vehicular traffic and pedestrians sharing roadway",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P113",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "people sitting peacefully on public benches along sidewalk",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P114",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "calm pedestrian movement through public transit station",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P115",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "patrons walking in and out of convenience store calmly",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P116",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "clean public street with occasional moving pedestrian",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P117",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "people standing in orderly queue outside shop entrance",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P118",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "pedestrians holding umbrellas walking in light rainfall",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P119",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "two people walking side by side chatting pleasantly",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P120",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "peaceful night street view with occasional walking figure",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P121",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "shoppers walking calmly between market stalls",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P122",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "family strolling together peacefully along urban sidewalk",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P123",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "pedestrians waiting at bus stop shelter without conflict",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P124",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "people crossing paved street during pedestrian green phase",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P125",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "delivery courier walking briskly with package along pavement",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P126",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "individual checking smartphone while standing on sidewalk",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P127",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "peaceful crowd moving through public pedestrian concourse",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P128",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "pedestrians entering commercial building through main doors",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P129",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "calm street view with cars stopped at traffic light",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P130",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "people walking leisurely in public park walkway",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P131",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "commuters walking out of train station exit stairs",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P132",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "two individuals conversing calmly beside parked automobile",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P133",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "routine street surveillance of pedestrians and parked cars",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P134",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "pedestrians crossing road safely between slow moving cars",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P135",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "peaceful daytime street with normal vehicular traffic",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P136",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "people casually walking past outdoor cafe seating area",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P137",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "orderly movement of pedestrians through public square",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P138",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "store customer carrying plastic bags walking to parked car",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P139",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "pedestrian stepping onto sidewalk after crossing street",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P140",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "group of people waiting calmly near street intersection",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P141",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "calm commercial district sidewalk during afternoon hours",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P142",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "person strolling casually with hands in pockets on sidewalk",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P143",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "peaceful residential street with no pedestrian altercation",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P144",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "commuter waiting patiently on outdoor station platform",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P145",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "two pedestrians parting ways with wave on sidewalk",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P146",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "public walkway with calm pedestrians walking in both directions",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P147",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "routine urban street scene with zero violence or hostility",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P148",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "pedestrian crossing wide boulevard at designated crossing",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P149",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "people browsing outdoor fruit and vegetable market stalls",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P150",
+    "dataset": "RLVS",
+    "category": "Non-Violence Control",
+    "query": "everyday peaceful activity of citizens walking in city",
+    "specificity": "high",
+    "target_context": "NonViolence"
+  },
+  {
+    "id": "P151",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "armed robbery criminal holding up cashier at register",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P152",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "robber pointing handgun at convenience store employee",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P153",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "masked suspect demanding cash from register behind counter",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P154",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "cashier handing over paper bills to armed robber",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P155",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "two armed robbers holding up small grocery store",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P156",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "robber brandishing weapon and jumping over service counter",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P157",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "gas station cashier held at gunpoint late at night",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P158",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "armed robber threatening store staff with handgun",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P159",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "perpetrator pointing weapon at customer and cashier",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P160",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "robber demanding wallet and cash at store checkout",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P161",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "suspect threatening cashier with large knife or machete",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P162",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "masked robber grabbing cash drawer bills and fleeing",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P163",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "armed robbery at commercial counter captured on CCTV",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P164",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "two masked men robbing retail store clerk at gunpoint",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P165",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "pharmacy counter hold-up by armed perpetrator",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P166",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "criminal confronting cashier with weapon behind glass",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P167",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "robber in hooded jacket sprinting away with stolen money",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P168",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "liquor store armed robbery captured on surveillance camera",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P169",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "suspect pointing gun at register operator during robbery",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P170",
+    "dataset": "UCF-Crime",
+    "category": "Robbery",
+    "query": "armed robbery in progress at commercial business counter",
+    "specificity": "high",
+    "target_context": "Robbery"
+  },
+  {
+    "id": "P171",
+    "dataset": "UCF-Crime",
+    "category": "Shoplifting",
+    "query": "customer discreetly concealing merchandise inside jacket",
+    "specificity": "high",
+    "target_context": "Shoplifting"
+  },
+  {
+    "id": "P172",
+    "dataset": "UCF-Crime",
+    "category": "Shoplifting",
+    "query": "shopper stuffing merchandise into handbag in store aisle",
+    "specificity": "high",
+    "target_context": "Shoplifting"
+  },
+  {
+    "id": "P173",
+    "dataset": "UCF-Crime",
+    "category": "Shoplifting",
+    "query": "person slipping bottle into coat pocket in retail store",
+    "specificity": "high",
+    "target_context": "Shoplifting"
+  },
+  {
+    "id": "P174",
+    "dataset": "UCF-Crime",
+    "category": "Shoplifting",
+    "query": "shoplifter grabbing expensive items and sprinting out door",
+    "specificity": "high",
+    "target_context": "Shoplifting"
+  },
+  {
+    "id": "P175",
+    "dataset": "UCF-Crime",
+    "category": "Shoplifting",
+    "query": "customer hiding store goods under clothing in aisle",
+    "specificity": "high",
+    "target_context": "Shoplifting"
+  },
+  {
+    "id": "P176",
+    "dataset": "UCF-Crime",
+    "category": "Shoplifting",
+    "query": "individual taking item off shelf and placing in backpack",
+    "specificity": "high",
+    "target_context": "Shoplifting"
+  },
+  {
+    "id": "P177",
+    "dataset": "UCF-Crime",
+    "category": "Shoplifting",
+    "query": "person walking out of store exit without paying for items",
+    "specificity": "high",
+    "target_context": "Shoplifting"
+  },
+  {
+    "id": "P178",
+    "dataset": "UCF-Crime",
+    "category": "Shoplifting",
+    "query": "theft of merchandise from retail display shelf",
+    "specificity": "high",
+    "target_context": "Shoplifting"
+  },
+  {
+    "id": "P179",
+    "dataset": "UCF-Crime",
+    "category": "Shoplifting",
+    "query": "shoplifter slipping cosmetics or small goods into pocket",
+    "specificity": "high",
+    "target_context": "Shoplifting"
+  },
+  {
+    "id": "P180",
+    "dataset": "UCF-Crime",
+    "category": "Shoplifting",
+    "query": "person taking items off rack and concealing under arm",
+    "specificity": "high",
+    "target_context": "Shoplifting"
+  },
+  {
+    "id": "P181",
+    "dataset": "UCF-Crime",
+    "category": "Stealing",
+    "query": "thief snatching unattended bag or purse in public venue",
+    "specificity": "high",
+    "target_context": "Stealing"
+  },
+  {
+    "id": "P182",
+    "dataset": "UCF-Crime",
+    "category": "Stealing",
+    "query": "bicycle theft from outdoor metal bike parking rack",
+    "specificity": "high",
+    "target_context": "Stealing"
+  },
+  {
+    "id": "P183",
+    "dataset": "UCF-Crime",
+    "category": "Stealing",
+    "query": "person stealing delivered package from front entrance",
+    "specificity": "high",
+    "target_context": "Stealing"
+  },
+  {
+    "id": "P184",
+    "dataset": "UCF-Crime",
+    "category": "Stealing",
+    "query": "stealth theft of unattended smartphone from cafe table",
+    "specificity": "high",
+    "target_context": "Stealing"
+  },
+  {
+    "id": "P185",
+    "dataset": "UCF-Crime",
+    "category": "Stealing",
+    "query": "pickpocket taking wallet from pocket of distracted person",
+    "specificity": "high",
+    "target_context": "Stealing"
+  },
+  {
+    "id": "P186",
+    "dataset": "UCF-Crime",
+    "category": "Stealing",
+    "query": "thief cutting bicycle lock and riding away with bicycle",
+    "specificity": "high",
+    "target_context": "Stealing"
+  },
+  {
+    "id": "P187",
+    "dataset": "UCF-Crime",
+    "category": "Stealing",
+    "query": "person taking items from back of parked truck bed",
+    "specificity": "high",
+    "target_context": "Stealing"
+  },
+  {
+    "id": "P188",
+    "dataset": "UCF-Crime",
+    "category": "Stealing",
+    "query": "thief stealing belongings from parked vehicle",
+    "specificity": "high",
+    "target_context": "Stealing"
+  },
+  {
+    "id": "P189",
+    "dataset": "UCF-Crime",
+    "category": "Stealing",
+    "query": "individual grabbing unattended backpack and walking off",
+    "specificity": "high",
+    "target_context": "Stealing"
+  },
+  {
+    "id": "P190",
+    "dataset": "UCF-Crime",
+    "category": "Stealing",
+    "query": "theft of personal property captured on security camera",
+    "specificity": "high",
+    "target_context": "Stealing"
+  },
+  {
+    "id": "P191",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "intruder prying open ground floor window at night",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P192",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "masked burglar forcing open commercial rear exit door",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P193",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "burglar climbing over security fence into private compound",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P194",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "forced entry through smashed glass front door of store",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P195",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "two burglars searching drawers inside dark commercial office",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P196",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "thief crawling under security shutter gate into closed shop",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P197",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "burglar flashlight illuminated inside dark retail room",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P198",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "intruder attempting door handle checks on parked vehicles in lot",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P199",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "burglary suspect breaking into office building after hours",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P200",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "forced entry into commercial warehouse storage area",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P201",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "intruder climbing through broken windowpane into building",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P202",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "suspect prying open commercial back door with crowbar",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P203",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "burglar rummaging through cabinets in dark store office",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P204",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "masked intruder creeping through hallway during break-in",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P205",
+    "dataset": "UCF-Crime",
+    "category": "Burglary",
+    "query": "burglary suspect fleeing through back door with stolen goods",
+    "specificity": "high",
+    "target_context": "Burglary"
+  },
+  {
+    "id": "P206",
+    "dataset": "UCF-Crime",
+    "category": "Arson",
+    "query": "arsonist igniting commercial dumpster bin fire at night",
+    "specificity": "high",
+    "target_context": "Arson"
+  },
+  {
+    "id": "P207",
+    "dataset": "UCF-Crime",
+    "category": "Arson",
+    "query": "person throwing flaming bottle device into building entrance",
+    "specificity": "high",
+    "target_context": "Arson"
+  },
+  {
+    "id": "P208",
+    "dataset": "UCF-Crime",
+    "category": "Arson",
+    "query": "deliberate fire started outside commercial property",
+    "specificity": "high",
+    "target_context": "Arson"
+  },
+  {
+    "id": "P209",
+    "dataset": "UCF-Crime",
+    "category": "Arson",
+    "query": "building engulfed in flames during deliberate arson blaze",
+    "specificity": "high",
+    "target_context": "Arson"
+  },
+  {
+    "id": "P210",
+    "dataset": "UCF-Crime",
+    "category": "Arson",
+    "query": "suspect lighting fire on pavement and fleeing spreading flames",
+    "specificity": "high",
+    "target_context": "Arson"
+  },
+  {
+    "id": "P211",
+    "dataset": "UCF-Crime",
+    "category": "Arson",
+    "query": "parked vehicle set on fire in driveway or parking area",
+    "specificity": "high",
+    "target_context": "Arson"
+  },
+  {
+    "id": "P212",
+    "dataset": "UCF-Crime",
+    "category": "Arson",
+    "query": "smoke and growing fire inside building captured on CCTV",
+    "specificity": "high",
+    "target_context": "Arson"
+  },
+  {
+    "id": "P213",
+    "dataset": "UCF-Crime",
+    "category": "Vandalism",
+    "query": "vandal spraying spray paint graffiti tag onto exterior wall",
+    "specificity": "high",
+    "target_context": "Vandalism"
+  },
+  {
+    "id": "P214",
+    "dataset": "UCF-Crime",
+    "category": "Vandalism",
+    "query": "person smashing storefront glass window with heavy tool",
+    "specificity": "high",
+    "target_context": "Vandalism"
+  },
+  {
+    "id": "P215",
+    "dataset": "UCF-Crime",
+    "category": "Vandalism",
+    "query": "individual scratching paint or damaging parked automobile",
+    "specificity": "high",
+    "target_context": "Vandalism"
+  },
+  {
+    "id": "P216",
+    "dataset": "UCF-Crime",
+    "category": "Vandalism",
+    "query": "vandals smashing glass panels on street shelter",
+    "specificity": "high",
+    "target_context": "Vandalism"
+  },
+  {
+    "id": "P217",
+    "dataset": "UCF-Crime",
+    "category": "Vandalism",
+    "query": "person deliberately damaging surveillance CCTV camera",
+    "specificity": "high",
+    "target_context": "Vandalism"
+  },
+  {
+    "id": "P218",
+    "dataset": "UCF-Crime",
+    "category": "Vandalism",
+    "query": "suspect throwing rock through glass door of commercial shop",
+    "specificity": "high",
+    "target_context": "Vandalism"
+  },
+  {
+    "id": "P219",
+    "dataset": "UCF-Crime",
+    "category": "Vandalism",
+    "query": "group of youths damaging public fixtures on sidewalk",
+    "specificity": "high",
+    "target_context": "Vandalism"
+  },
+  {
+    "id": "P220",
+    "dataset": "UCF-Crime",
+    "category": "Vandalism",
+    "query": "deliberate destruction of commercial property outdoors",
+    "specificity": "high",
+    "target_context": "Vandalism"
+  },
+  {
+    "id": "P221",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "severe two-car collision at traffic intersection",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P222",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "speeding vehicle T-boning turning car at crossroads",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P223",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "pedestrian struck by vehicle while crossing roadway",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P224",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "vehicle rollover crash on multi-lane roadway",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P225",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "motorcyclist colliding with automobile at road crossing",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P226",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "car losing control and crashing into storefront or barrier",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P227",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "multi-vehicle collision at busy urban street junction",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P228",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "truck colliding with concrete barrier or light pole",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P229",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "hit-and-run driver striking pedestrian and driving off",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P230",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "car skidding on wet road surface and crashing into curb",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P231",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "head-on collision between two vehicles on two-lane road",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P232",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "vehicle rear-ending stopped car at traffic light",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P233",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "car spinning out of control across roadway lanes",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P234",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "driver crashing into roadside guardrail at high speed",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P235",
+    "dataset": "UCF-Crime",
+    "category": "RoadAccidents",
+    "query": "traffic collision captured on intersection surveillance camera",
+    "specificity": "high",
+    "target_context": "RoadAccidents"
+  },
+  {
+    "id": "P236",
+    "dataset": "UCF-Crime",
+    "category": "Fighting",
+    "query": "violent physical altercation between two males in hallway",
+    "specificity": "high",
+    "target_context": "Fighting"
+  },
+  {
+    "id": "P237",
+    "dataset": "UCF-Crime",
+    "category": "Fighting",
+    "query": "punches thrown between individuals in commercial corridor",
+    "specificity": "high",
+    "target_context": "Fighting"
+  },
+  {
+    "id": "P238",
+    "dataset": "UCF-Crime",
+    "category": "Fighting",
+    "query": "two individuals fighting on ground outside retail store",
+    "specificity": "high",
+    "target_context": "Fighting"
+  },
+  {
+    "id": "P239",
+    "dataset": "UCF-Crime",
+    "category": "Assault",
+    "query": "violent unprovoked assault on solitary person in alley",
+    "specificity": "high",
+    "target_context": "Assault"
+  },
+  {
+    "id": "P240",
+    "dataset": "UCF-Crime",
+    "category": "Assault",
+    "query": "attacker ambushing victim and punching them to the ground",
+    "specificity": "high",
+    "target_context": "Assault"
+  },
+  {
+    "id": "P241",
+    "dataset": "UCF-Crime",
+    "category": "Assault",
+    "query": "suspect pushing person violently down onto sidewalk",
+    "specificity": "high",
+    "target_context": "Assault"
+  },
+  {
+    "id": "P242",
+    "dataset": "UCF-Crime",
+    "category": "Assault",
+    "query": "assailants beating victim against wall or metal fence",
+    "specificity": "high",
+    "target_context": "Assault"
+  },
+  {
+    "id": "P243",
+    "dataset": "UCF-Crime",
+    "category": "Shooting",
+    "query": "active shooter discharging firearm in public area",
+    "specificity": "high",
+    "target_context": "Shooting"
+  },
+  {
+    "id": "P244",
+    "dataset": "UCF-Crime",
+    "category": "Shooting",
+    "query": "gunman firing shots from moving vehicle in drive-by",
+    "specificity": "high",
+    "target_context": "Shooting"
+  },
+  {
+    "id": "P245",
+    "dataset": "UCF-Crime",
+    "category": "Shooting",
+    "query": "person drawing gun from waistband and firing shots",
+    "specificity": "high",
+    "target_context": "Shooting"
+  },
+  {
+    "id": "P246",
+    "dataset": "UCF-Crime",
+    "category": "Shooting",
+    "query": "muzzle flash and gunfire exchanged in parking lot",
+    "specificity": "high",
+    "target_context": "Shooting"
+  },
+  {
+    "id": "P247",
+    "dataset": "UCF-Crime",
+    "category": "Shooting",
+    "query": "victim falling to ground after being shot by gunman",
+    "specificity": "high",
+    "target_context": "Shooting"
+  },
+  {
+    "id": "P248",
+    "dataset": "UCF-Crime",
+    "category": "Shooting",
+    "query": "shooting incident outside gas station captured on CCTV",
+    "specificity": "high",
+    "target_context": "Shooting"
+  },
+  {
+    "id": "P249",
+    "dataset": "UCF-Crime",
+    "category": "Explosion",
+    "query": "massive blast explosion blowing out building windows",
+    "specificity": "high",
+    "target_context": "Explosion"
+  },
+  {
+    "id": "P250",
+    "dataset": "UCF-Crime",
+    "category": "Explosion",
+    "query": "smoke plume and fiery blast in commercial facility",
+    "specificity": "high",
+    "target_context": "Explosion"
+  },
+  {
+    "id": "P251",
+    "dataset": "UCF-Crime",
+    "category": "Explosion",
+    "query": "detonation of explosive device in roadside location",
+    "specificity": "high",
+    "target_context": "Explosion"
+  },
+  {
+    "id": "P252",
+    "dataset": "UCF-Crime",
+    "category": "Arrest",
+    "query": "police officers tackling fleeing suspect to ground",
+    "specificity": "high",
+    "target_context": "Arrest"
+  },
+  {
+    "id": "P253",
+    "dataset": "UCF-Crime",
+    "category": "Arrest",
+    "query": "law enforcement officers detaining suspect in handcuffs",
+    "specificity": "high",
+    "target_context": "Arrest"
+  },
+  {
+    "id": "P254",
+    "dataset": "UCF-Crime",
+    "category": "Arrest",
+    "query": "multiple police cruisers surrounding stopped suspect vehicle",
+    "specificity": "high",
+    "target_context": "Arrest"
+  },
+  {
+    "id": "P255",
+    "dataset": "UCF-Crime",
+    "category": "Abuse",
+    "query": "individual physically abusing person inside room",
+    "specificity": "high",
+    "target_context": "Abuse"
+  },
+  {
+    "id": "P256",
+    "dataset": "UCF-Crime",
+    "category": "Abuse",
+    "query": "aggressive physical mistreatment captured on indoor camera",
+    "specificity": "high",
+    "target_context": "Abuse"
+  },
+  {
+    "id": "P257",
+    "dataset": "UCF-Crime",
+    "category": "Assault",
+    "query": "mugger striking pedestrian with fists before grabbing bag",
+    "specificity": "high",
+    "target_context": "Assault"
+  },
+  {
+    "id": "P258",
+    "dataset": "UCF-Crime",
+    "category": "Assault",
+    "query": "attacker dragging victim to ground in violent struggle",
+    "specificity": "high",
+    "target_context": "Assault"
+  },
+  {
+    "id": "P259",
+    "dataset": "UCF-Crime",
+    "category": "Fighting",
+    "query": "physical brawl between patrons spilling into parking lot",
+    "specificity": "high",
+    "target_context": "Fighting"
+  },
+  {
+    "id": "P260",
+    "dataset": "UCF-Crime",
+    "category": "Shooting",
+    "query": "armed confrontation between two individuals firing weapons",
+    "specificity": "high",
+    "target_context": "Shooting"
+  },
+  {
+    "id": "P261",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "peaceful pedestrian walking through store entrance lobby",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P262",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "routine grocery shopping along retail store aisles",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P263",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "customer paying cashier at register with cash or card",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P264",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "orderly traffic flow through signalized road intersection",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P265",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "cars parked normally in commercial shopping center lot",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P266",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "pedestrians strolling past commercial storefront windows",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P267",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "store employee restocking shelves with merchandise",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P268",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "customer using automated teller machine without incident",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P269",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "routine entry and exit of patrons through sliding glass doors",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P270",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "security guard walking regular patrol through facility corridor",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P271",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "vehicle pulling smoothly into marked parking space",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P272",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "car exiting parking facility after payment",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P273",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "commuters waiting peacefully at outdoor bus stop",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P274",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "cashier scanning items and bagging goods for customer",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P275",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "pedestrian walking calmly along commercial sidewalk",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P276",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "quiet warehouse storage aisle with stationary pallets",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P277",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "office employees walking calmly through hallway",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P278",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "delivery worker carrying box into reception entrance",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P279",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "customer examining product packaging before placing in basket",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P280",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "calm daytime surveillance view of commercial street",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P281",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "driver refueling vehicle at outdoor gas station pump",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P282",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "pedestrians walking calmly in commercial retail plaza",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P283",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "staff member cleaning floor with mop in public hallway",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P284",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "driver signaling and making standard turn at intersection",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P285",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "peaceful night view of empty parking lot under lighting",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P286",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "bystanders chatting casually outside store entrance",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P287",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "pedestrian carrying umbrella walking on sidewalk in rain",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P288",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "hotel guest checking in at reception front desk",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P289",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "pedestrian walking past stationary parked automobiles",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P290",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "store employee organizing merchandise neatly in aisle",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P291",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "students walking peacefully along campus pathway",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P292",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "customer returning shopping cart to designated stall",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P293",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "driver waiting patiently at red traffic signal",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P294",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "routine unloading of commercial delivery van",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P295",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "cyclist riding safely down road following traffic flow",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P296",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "commuter waiting seated on train platform bench",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P297",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "orderly line of customers waiting at checkout counter",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P298",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "calm commercial street during midday hours",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P299",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "pedestrian pushing shopping cart along paved walkway",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P300",
+    "dataset": "UCF-Crime",
+    "category": "Normal",
+    "query": "well-lit commercial corridor with no anomalous activity",
+    "specificity": "high",
+    "target_context": "Normal"
+  },
+  {
+    "id": "P301",
+    "dataset": "UCF-ARG",
+    "category": "Boxing",
+    "query": "person in fighting stance shadowboxing throwing forward punches with fists",
+    "specificity": "high",
+    "target_context": "boxing"
+  },
+  {
+    "id": "P302",
+    "dataset": "UCF-ARG",
+    "category": "Boxing",
+    "query": "aerial drone view of individual practicing shadowboxing throwing punches",
+    "specificity": "high",
+    "target_context": "aerial_boxing"
+  },
+  {
+    "id": "P303",
+    "dataset": "UCF-ARG",
+    "category": "Boxing",
+    "query": "rooftop high-angle surveillance of person shadowboxing in parking lot",
+    "specificity": "high",
+    "target_context": "rooftop_boxing"
+  },
+  {
+    "id": "P304",
+    "dataset": "UCF-ARG",
+    "category": "Boxing",
+    "query": "ground camera view of person throwing rapid boxing punches with fists",
+    "specificity": "high",
+    "target_context": "ground_boxing"
+  },
+  {
+    "id": "P305",
+    "dataset": "UCF-ARG",
+    "category": "Boxing",
+    "query": "person throwing left and right hook punches across parking tarmac",
+    "specificity": "high",
+    "target_context": "boxing"
+  },
+  {
+    "id": "P306",
+    "dataset": "UCF-ARG",
+    "category": "Boxing",
+    "query": "individual bouncing on toes and punching air in outdoor testing area",
+    "specificity": "high",
+    "target_context": "boxing"
+  },
+  {
+    "id": "P307",
+    "dataset": "UCF-ARG",
+    "category": "Boxing",
+    "query": "overhead aerial perspective of person executing rapid boxing jabs",
+    "specificity": "high",
+    "target_context": "aerial_boxing"
+  },
+  {
+    "id": "P308",
+    "dataset": "UCF-ARG",
+    "category": "Boxing",
+    "query": "person executing boxing footwork and punch combinations on pavement",
+    "specificity": "high",
+    "target_context": "boxing"
+  },
+  {
+    "id": "P309",
+    "dataset": "UCF-ARG",
+    "category": "Boxing",
+    "query": "high angle rooftop camera tracking person shadowboxing outdoors",
+    "specificity": "high",
+    "target_context": "rooftop_boxing"
+  },
+  {
+    "id": "P310",
+    "dataset": "UCF-ARG",
+    "category": "Boxing",
+    "query": "ground level camera view of person shadowboxing and throwing punches",
+    "specificity": "high",
+    "target_context": "ground_boxing"
+  },
+  {
+    "id": "P311",
+    "dataset": "UCF-ARG",
+    "category": "Carrying",
+    "query": "person holding and carrying a heavy box container with both hands while walking",
+    "specificity": "high",
+    "target_context": "carrying"
+  },
+  {
+    "id": "P312",
+    "dataset": "UCF-ARG",
+    "category": "Carrying",
+    "query": "aerial drone overhead view of individual carrying cardboard box across tarmac",
+    "specificity": "high",
+    "target_context": "aerial_carrying"
+  },
+  {
+    "id": "P313",
+    "dataset": "UCF-ARG",
+    "category": "Carrying",
+    "query": "rooftop surveillance footage of person carrying item across parking lot",
+    "specificity": "high",
+    "target_context": "rooftop_carrying"
+  },
+  {
+    "id": "P314",
+    "dataset": "UCF-ARG",
+    "category": "Carrying",
+    "query": "ground level camera showing person walking with box carried in both hands",
+    "specificity": "high",
+    "target_context": "ground_carrying"
+  },
+  {
+    "id": "P315",
+    "dataset": "UCF-ARG",
+    "category": "Carrying",
+    "query": "individual transporting container box across outdoor testing facility",
+    "specificity": "high",
+    "target_context": "carrying"
+  },
+  {
+    "id": "P316",
+    "dataset": "UCF-ARG",
+    "category": "Carrying",
+    "query": "person holding bulky package in front of chest while walking across pavement",
+    "specificity": "high",
+    "target_context": "carrying"
+  },
+  {
+    "id": "P317",
+    "dataset": "UCF-ARG",
+    "category": "Carrying",
+    "query": "high angle view of person walking across lot while carrying container in hands",
+    "specificity": "high",
+    "target_context": "rooftop_carrying"
+  },
+  {
+    "id": "P318",
+    "dataset": "UCF-ARG",
+    "category": "Carrying",
+    "query": "aerial perspective of carrier transporting box across tarmac pavement",
+    "specificity": "high",
+    "target_context": "aerial_carrying"
+  },
+  {
+    "id": "P319",
+    "dataset": "UCF-ARG",
+    "category": "Carrying",
+    "query": "person carrying equipment box with both arms from one point to another",
+    "specificity": "high",
+    "target_context": "carrying"
+  },
+  {
+    "id": "P320",
+    "dataset": "UCF-ARG",
+    "category": "Carrying",
+    "query": "ground perspective of individual carrying cargo box across parking area",
+    "specificity": "high",
+    "target_context": "ground_carrying"
+  },
+  {
+    "id": "P321",
+    "dataset": "UCF-ARG",
+    "category": "Clapping",
+    "query": "person standing stationary repeatedly clapping palms together in front of chest",
+    "specificity": "high",
+    "target_context": "clapping"
+  },
+  {
+    "id": "P322",
+    "dataset": "UCF-ARG",
+    "category": "Clapping",
+    "query": "aerial camera view of individual clapping hands together standing in parking lot",
+    "specificity": "high",
+    "target_context": "aerial_clapping"
+  },
+  {
+    "id": "P323",
+    "dataset": "UCF-ARG",
+    "category": "Clapping",
+    "query": "rooftop surveillance of person standing still and clapping hands outdoors",
+    "specificity": "high",
+    "target_context": "rooftop_clapping"
+  },
+  {
+    "id": "P324",
+    "dataset": "UCF-ARG",
+    "category": "Clapping",
+    "query": "ground level view of person applauding by clapping both hands together",
+    "specificity": "high",
+    "target_context": "ground_clapping"
+  },
+  {
+    "id": "P325",
+    "dataset": "UCF-ARG",
+    "category": "Clapping",
+    "query": "individual rhythmically clapping hands together in front of body",
+    "specificity": "high",
+    "target_context": "clapping"
+  },
+  {
+    "id": "P326",
+    "dataset": "UCF-ARG",
+    "category": "Clapping",
+    "query": "person bringing palms together in continuous clapping gesture",
+    "specificity": "high",
+    "target_context": "clapping"
+  },
+  {
+    "id": "P327",
+    "dataset": "UCF-ARG",
+    "category": "Clapping",
+    "query": "overhead aerial view of stationary figure clapping hands on tarmac",
+    "specificity": "high",
+    "target_context": "aerial_clapping"
+  },
+  {
+    "id": "P328",
+    "dataset": "UCF-ARG",
+    "category": "Clapping",
+    "query": "elevated rooftop observation of subject clapping hands together",
+    "specificity": "high",
+    "target_context": "rooftop_clapping"
+  },
+  {
+    "id": "P329",
+    "dataset": "UCF-ARG",
+    "category": "Clapping",
+    "query": "front ground view of person clapping hands rhythmically in front of torso",
+    "specificity": "high",
+    "target_context": "ground_clapping"
+  },
+  {
+    "id": "P330",
+    "dataset": "UCF-ARG",
+    "category": "Clapping",
+    "query": "subject standing on pavement clapping hands together repeatedly",
+    "specificity": "high",
+    "target_context": "clapping"
+  },
+  {
+    "id": "P331",
+    "dataset": "UCF-ARG",
+    "category": "Digging",
+    "query": "person using a shovel spade to dig a hole into dirt in outdoor facility",
+    "specificity": "high",
+    "target_context": "digging"
+  },
+  {
+    "id": "P332",
+    "dataset": "UCF-ARG",
+    "category": "Digging",
+    "query": "aerial perspective of individual digging hole with shovel in ground",
+    "specificity": "high",
+    "target_context": "aerial_digging"
+  },
+  {
+    "id": "P333",
+    "dataset": "UCF-ARG",
+    "category": "Digging",
+    "query": "rooftop camera tracking person thrusting shovel into ground dirt",
+    "specificity": "high",
+    "target_context": "rooftop_digging"
+  },
+  {
+    "id": "P334",
+    "dataset": "UCF-ARG",
+    "category": "Digging",
+    "query": "ground level camera view of person digging with shovel spade in ground",
+    "specificity": "high",
+    "target_context": "ground_digging"
+  },
+  {
+    "id": "P335",
+    "dataset": "UCF-ARG",
+    "category": "Digging",
+    "query": "individual using foot to push shovel blade into ground dirt",
+    "specificity": "high",
+    "target_context": "digging"
+  },
+  {
+    "id": "P336",
+    "dataset": "UCF-ARG",
+    "category": "Digging",
+    "query": "repetitive digging motion scooping and lifting dirt with shovel",
+    "specificity": "high",
+    "target_context": "digging"
+  },
+  {
+    "id": "P337",
+    "dataset": "UCF-ARG",
+    "category": "Digging",
+    "query": "high angle rooftop surveillance of person excavating dirt with shovel",
+    "specificity": "high",
+    "target_context": "rooftop_digging"
+  },
+  {
+    "id": "P338",
+    "dataset": "UCF-ARG",
+    "category": "Digging",
+    "query": "drone camera capturing person working with shovel digging ground",
+    "specificity": "high",
+    "target_context": "aerial_digging"
+  },
+  {
+    "id": "P339",
+    "dataset": "UCF-ARG",
+    "category": "Digging",
+    "query": "person bending down to scoop soil with shovel tool in outdoor area",
+    "specificity": "high",
+    "target_context": "digging"
+  },
+  {
+    "id": "P340",
+    "dataset": "UCF-ARG",
+    "category": "Digging",
+    "query": "ground perspective of subject digging hole with shovel blade",
+    "specificity": "high",
+    "target_context": "ground_digging"
+  },
+  {
+    "id": "P341",
+    "dataset": "UCF-ARG",
+    "category": "Jogging",
+    "query": "person jogging at an athletic continuous medium running pace across tarmac",
+    "specificity": "high",
+    "target_context": "jogging"
+  },
+  {
+    "id": "P342",
+    "dataset": "UCF-ARG",
+    "category": "Jogging",
+    "query": "aerial drone tracking jogger moving at medium pace across parking lot",
+    "specificity": "high",
+    "target_context": "aerial_jogging"
+  },
+  {
+    "id": "P343",
+    "dataset": "UCF-ARG",
+    "category": "Jogging",
+    "query": "rooftop camera observing person jogging steadily across outdoor area",
+    "specificity": "high",
+    "target_context": "rooftop_jogging"
+  },
+  {
+    "id": "P344",
+    "dataset": "UCF-ARG",
+    "category": "Jogging",
+    "query": "ground camera angle of individual jogging at moderate speed across frame",
+    "specificity": "high",
+    "target_context": "ground_jogging"
+  },
+  {
+    "id": "P345",
+    "dataset": "UCF-ARG",
+    "category": "Jogging",
+    "query": "moderate speed jogging exercise across open parking facility",
+    "specificity": "high",
+    "target_context": "jogging"
+  },
+  {
+    "id": "P346",
+    "dataset": "UCF-ARG",
+    "category": "Jogging",
+    "query": "person in athletic clothing jogging at steady pace across pavement",
+    "specificity": "high",
+    "target_context": "jogging"
+  },
+  {
+    "id": "P347",
+    "dataset": "UCF-ARG",
+    "category": "Jogging",
+    "query": "aerial overhead view of human figure jogging steadily on tarmac",
+    "specificity": "high",
+    "target_context": "aerial_jogging"
+  },
+  {
+    "id": "P348",
+    "dataset": "UCF-ARG",
+    "category": "Jogging",
+    "query": "elevated rooftop perspective of runner pacing at moderate speed",
+    "specificity": "high",
+    "target_context": "rooftop_jogging"
+  },
+  {
+    "id": "P349",
+    "dataset": "UCF-ARG",
+    "category": "Jogging",
+    "query": "jogger traversing across ground camera frame at moderate speed",
+    "specificity": "high",
+    "target_context": "ground_jogging"
+  },
+  {
+    "id": "P350",
+    "dataset": "UCF-ARG",
+    "category": "Jogging",
+    "query": "continuous jogging movement across parking surveillance scene",
+    "specificity": "high",
+    "target_context": "jogging"
+  },
+  {
+    "id": "P351",
+    "dataset": "UCF-ARG",
+    "category": "Open-Trunk",
+    "query": "person walking up to parked vehicle and opening car trunk lid",
+    "specificity": "high",
+    "target_context": "open-trunk"
+  },
+  {
+    "id": "P352",
+    "dataset": "UCF-ARG",
+    "category": "Open-Trunk",
+    "query": "aerial drone view of individual lifting trunk lid of automobile",
+    "specificity": "high",
+    "target_context": "aerial_open-trunk"
+  },
+  {
+    "id": "P353",
+    "dataset": "UCF-ARG",
+    "category": "Open-Trunk",
+    "query": "rooftop camera tracking person opening rear hatch of parked car",
+    "specificity": "high",
+    "target_context": "rooftop_open-trunk"
+  },
+  {
+    "id": "P354",
+    "dataset": "UCF-ARG",
+    "category": "Open-Trunk",
+    "query": "ground level surveillance of person unlatching car trunk hatch",
+    "specificity": "high",
+    "target_context": "ground_open-trunk"
+  },
+  {
+    "id": "P355",
+    "dataset": "UCF-ARG",
+    "category": "Open-Trunk",
+    "query": "subject walking to rear of parked sedan and raising trunk lid",
+    "specificity": "high",
+    "target_context": "open-trunk"
+  },
+  {
+    "id": "P356",
+    "dataset": "UCF-ARG",
+    "category": "Open-Trunk",
+    "query": "person opening and closing vehicle rear luggage compartment",
+    "specificity": "high",
+    "target_context": "open-trunk"
+  },
+  {
+    "id": "P357",
+    "dataset": "UCF-ARG",
+    "category": "Open-Trunk",
+    "query": "high angle rooftop perspective of car trunk opening event in lot",
+    "specificity": "high",
+    "target_context": "rooftop_open-trunk"
+  },
+  {
+    "id": "P358",
+    "dataset": "UCF-ARG",
+    "category": "Open-Trunk",
+    "query": "drone monitoring individual accessing parked car trunk",
+    "specificity": "high",
+    "target_context": "aerial_open-trunk"
+  },
+  {
+    "id": "P359",
+    "dataset": "UCF-ARG",
+    "category": "Open-Trunk",
+    "query": "person lifting rear hatchback trunk door of parked automobile",
+    "specificity": "high",
+    "target_context": "open-trunk"
+  },
+  {
+    "id": "P360",
+    "dataset": "UCF-ARG",
+    "category": "Open-Trunk",
+    "query": "ground perspective of subject interacting with vehicle trunk lid",
+    "specificity": "high",
+    "target_context": "ground_open-trunk"
+  },
+  {
+    "id": "P361",
+    "dataset": "UCF-ARG",
+    "category": "Running",
+    "query": "person sprinting and running fast at maximum speed across parking lot",
+    "specificity": "high",
+    "target_context": "running"
+  },
+  {
+    "id": "P362",
+    "dataset": "UCF-ARG",
+    "category": "Running",
+    "query": "aerial drone tracking fast running sprinter across tarmac",
+    "specificity": "high",
+    "target_context": "aerial_running"
+  },
+  {
+    "id": "P363",
+    "dataset": "UCF-ARG",
+    "category": "Running",
+    "query": "rooftop camera recording high-speed runner sprinting across pavement",
+    "specificity": "high",
+    "target_context": "rooftop_running"
+  },
+  {
+    "id": "P364",
+    "dataset": "UCF-ARG",
+    "category": "Running",
+    "query": "ground level camera view of person sprinting fast across frame",
+    "specificity": "high",
+    "target_context": "ground_running"
+  },
+  {
+    "id": "P365",
+    "dataset": "UCF-ARG",
+    "category": "Running",
+    "query": "individual running with long energetic sprint strides outdoors",
+    "specificity": "high",
+    "target_context": "running"
+  },
+  {
+    "id": "P366",
+    "dataset": "UCF-ARG",
+    "category": "Running",
+    "query": "high speed sprint across outdoor facility surveillance area",
+    "specificity": "high",
+    "target_context": "running"
+  },
+  {
+    "id": "P367",
+    "dataset": "UCF-ARG",
+    "category": "Running",
+    "query": "drone camera following fast runner moving rapidly through frame",
+    "specificity": "high",
+    "target_context": "aerial_running"
+  },
+  {
+    "id": "P368",
+    "dataset": "UCF-ARG",
+    "category": "Running",
+    "query": "elevated rooftop view of person dashing at full sprint across tarmac",
+    "specificity": "high",
+    "target_context": "rooftop_running"
+  },
+  {
+    "id": "P369",
+    "dataset": "UCF-ARG",
+    "category": "Running",
+    "query": "person running across ground camera view at high velocity",
+    "specificity": "high",
+    "target_context": "ground_running"
+  },
+  {
+    "id": "P370",
+    "dataset": "UCF-ARG",
+    "category": "Running",
+    "query": "rapid sprint running movement captured across surveillance scene",
+    "specificity": "high",
+    "target_context": "running"
+  },
+  {
+    "id": "P371",
+    "dataset": "UCF-ARG",
+    "category": "Throwing",
+    "query": "person throwing an object or ball forward with overhead arm swing",
+    "specificity": "high",
+    "target_context": "throwing"
+  },
+  {
+    "id": "P372",
+    "dataset": "UCF-ARG",
+    "category": "Throwing",
+    "query": "aerial view of individual winding up arm and throwing item forward",
+    "specificity": "high",
+    "target_context": "aerial_throwing"
+  },
+  {
+    "id": "P373",
+    "dataset": "UCF-ARG",
+    "category": "Throwing",
+    "query": "rooftop camera tracking person throwing projectile across parking lot",
+    "specificity": "high",
+    "target_context": "rooftop_throwing"
+  },
+  {
+    "id": "P374",
+    "dataset": "UCF-ARG",
+    "category": "Throwing",
+    "query": "ground level perspective of overhand throwing motion with arm",
+    "specificity": "high",
+    "target_context": "ground_throwing"
+  },
+  {
+    "id": "P375",
+    "dataset": "UCF-ARG",
+    "category": "Throwing",
+    "query": "individual throwing object forward with full body follow-through",
+    "specificity": "high",
+    "target_context": "throwing"
+  },
+  {
+    "id": "P376",
+    "dataset": "UCF-ARG",
+    "category": "Throwing",
+    "query": "person launching thrown object through the air in testing area",
+    "specificity": "high",
+    "target_context": "throwing"
+  },
+  {
+    "id": "P377",
+    "dataset": "UCF-ARG",
+    "category": "Throwing",
+    "query": "high angle rooftop observation of person executing overhead throw",
+    "specificity": "high",
+    "target_context": "rooftop_throwing"
+  },
+  {
+    "id": "P378",
+    "dataset": "UCF-ARG",
+    "category": "Throwing",
+    "query": "drone overhead view of person executing throwing gesture with arm",
+    "specificity": "high",
+    "target_context": "aerial_throwing"
+  },
+  {
+    "id": "P379",
+    "dataset": "UCF-ARG",
+    "category": "Throwing",
+    "query": "person throwing item forcefully across tarmac pavement",
+    "specificity": "high",
+    "target_context": "throwing"
+  },
+  {
+    "id": "P380",
+    "dataset": "UCF-ARG",
+    "category": "Throwing",
+    "query": "side profile of person executing athletic overhand throw gesture",
+    "specificity": "high",
+    "target_context": "ground_throwing"
+  },
+  {
+    "id": "P381",
+    "dataset": "UCF-ARG",
+    "category": "Walking",
+    "query": "person walking slowly at calm normal pedestrian walking pace",
+    "specificity": "high",
+    "target_context": "walking"
+  },
+  {
+    "id": "P382",
+    "dataset": "UCF-ARG",
+    "category": "Walking",
+    "query": "aerial drone footage of solitary pedestrian walking across tarmac",
+    "specificity": "high",
+    "target_context": "aerial_walking"
+  },
+  {
+    "id": "P383",
+    "dataset": "UCF-ARG",
+    "category": "Walking",
+    "query": "rooftop surveillance of person walking steadily across parking lot",
+    "specificity": "high",
+    "target_context": "rooftop_walking"
+  },
+  {
+    "id": "P384",
+    "dataset": "UCF-ARG",
+    "category": "Walking",
+    "query": "ground camera angle showing individual walking calmly across frame",
+    "specificity": "high",
+    "target_context": "ground_walking"
+  },
+  {
+    "id": "P385",
+    "dataset": "UCF-ARG",
+    "category": "Walking",
+    "query": "pedestrian strolling at relaxed pace across outdoor paved space",
+    "specificity": "high",
+    "target_context": "walking"
+  },
+  {
+    "id": "P386",
+    "dataset": "UCF-ARG",
+    "category": "Walking",
+    "query": "person traversing tarmac pavement at normal walking speed",
+    "specificity": "high",
+    "target_context": "walking"
+  },
+  {
+    "id": "P387",
+    "dataset": "UCF-ARG",
+    "category": "Walking",
+    "query": "overhead view of human figure walking calmly across pavement",
+    "specificity": "high",
+    "target_context": "aerial_walking"
+  },
+  {
+    "id": "P388",
+    "dataset": "UCF-ARG",
+    "category": "Walking",
+    "query": "high angle rooftop view of pedestrian walking across parking area",
+    "specificity": "high",
+    "target_context": "rooftop_walking"
+  },
+  {
+    "id": "P389",
+    "dataset": "UCF-ARG",
+    "category": "Walking",
+    "query": "person walking calmly across ground surveillance camera view",
+    "specificity": "high",
+    "target_context": "ground_walking"
+  },
+  {
+    "id": "P390",
+    "dataset": "UCF-ARG",
+    "category": "Walking",
+    "query": "steady continuous walking motion across paved testing facility",
+    "specificity": "high",
+    "target_context": "walking"
+  },
+  {
+    "id": "P391",
+    "dataset": "UCF-ARG",
+    "category": "Waving",
+    "query": "person standing and waving raised hand overhead high in the air",
+    "specificity": "high",
+    "target_context": "waving"
+  },
+  {
+    "id": "P392",
+    "dataset": "UCF-ARG",
+    "category": "Waving",
+    "query": "aerial camera view of individual waving arm overhead in greeting",
+    "specificity": "high",
+    "target_context": "aerial_waving"
+  },
+  {
+    "id": "P393",
+    "dataset": "UCF-ARG",
+    "category": "Waving",
+    "query": "rooftop surveillance of person standing and waving single hand overhead",
+    "specificity": "high",
+    "target_context": "rooftop_waving"
+  },
+  {
+    "id": "P394",
+    "dataset": "UCF-ARG",
+    "category": "Waving",
+    "query": "ground level camera view of person waving hand raised high above head",
+    "specificity": "high",
+    "target_context": "ground_waving"
+  },
+  {
+    "id": "P395",
+    "dataset": "UCF-ARG",
+    "category": "Waving",
+    "query": "individual signaling by waving raised forearm overhead back and forth",
+    "specificity": "high",
+    "target_context": "waving"
+  },
+  {
+    "id": "P396",
+    "dataset": "UCF-ARG",
+    "category": "Waving",
+    "query": "person waving back and forth with arm raised high above shoulder",
+    "specificity": "high",
+    "target_context": "waving"
+  },
+  {
+    "id": "P397",
+    "dataset": "UCF-ARG",
+    "category": "Waving",
+    "query": "overhead drone perspective of waving figure with raised arm in lot",
+    "specificity": "high",
+    "target_context": "aerial_waving"
+  },
+  {
+    "id": "P398",
+    "dataset": "UCF-ARG",
+    "category": "Waving",
+    "query": "elevated rooftop observation of person waving hand high in air",
+    "specificity": "high",
+    "target_context": "rooftop_waving"
+  },
+  {
+    "id": "P399",
+    "dataset": "UCF-ARG",
+    "category": "Waving",
+    "query": "subject standing stationary on tarmac waving right hand overhead",
+    "specificity": "high",
+    "target_context": "waving"
+  },
+  {
+    "id": "P400",
+    "dataset": "UCF-ARG",
+    "category": "Waving",
+    "query": "person waving raised hand to attract attention in open parking lot",
+    "specificity": "high",
+    "target_context": "ground_waving"
+  },
+  {
+    "id": "P401",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "person walking slowly across parking lot in surveillance view",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P402",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "individual walking calmly along outdoor facility walkway",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P403",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "pedestrian walking past stationary parked cars in lot",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P404",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "person traversing wide asphalt driveway towards building",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P405",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "two people walking side by side across facility parking area",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P406",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "pedestrian crossing parking driving lane on foot",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P407",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "person walking along sidewalk adjacent to parked vehicles",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P408",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "individual walking away from vehicle across open parking space",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P409",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "person walking steadily across outdoor surveillance scene",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P410",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "pedestrian walking diagonally across paved parking area",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P411",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "person in casual clothes walking along perimeter fence",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P412",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "individual walking towards facility door entrance",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P413",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "pedestrian walking calmly past light pole in parking lot",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P414",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "person walking briskly across paved lot during daytime",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P415",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "individual walking past row of parked sedans and SUVs",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P416",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "pedestrian strolling at relaxed pace across facility grounds",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P417",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "person walking between two rows of parked vehicles",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P418",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "individual traversing open tarmac towards building walkway",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P419",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "person walking across asphalt under bright outdoor sunlight",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P420",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "pedestrian walking past building corner into parking lot",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P421",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "person walking alone across quiet outdoor facility lot",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P422",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "individual walking past stationary truck in parking area",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P423",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "two individuals walking together towards facility entrance",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P424",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "person walking steadily across wide camera surveillance field",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P425",
+    "dataset": "TinyVIRAT",
+    "category": "Walking",
+    "query": "pedestrian walking along paved path bordering facility lot",
+    "specificity": "high",
+    "target_context": "activity_walking"
+  },
+  {
+    "id": "P426",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "person carrying heavy box or container with both hands",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P427",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "individual carrying bulky cardboard package across parking lot",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P428",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "person walking while carrying large bag in hand",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P429",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "worker carrying equipment or tools across facility grounds",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P430",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "individual transporting container box from vehicle to building",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P431",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "person holding heavy cargo load in front of chest while walking",
+    "specificity": "high",
+    "target_context": "Transport_HeavyCarry"
+  },
+  {
+    "id": "P432",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "pedestrian carrying backpack and walking through parking lot",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P433",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "person carrying luggage bag while crossing outdoor lot",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P434",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "individual carrying parcel under arm while walking past cars",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P435",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "worker carrying supplies across parking lot pavement",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P436",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "person walking while carrying bucket or container by handle",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P437",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "individual carrying heavy rectangular crate across facility",
+    "specificity": "high",
+    "target_context": "Transport_HeavyCarry"
+  },
+  {
+    "id": "P438",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "person holding bag in one hand while walking across lot",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P439",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "pedestrian transporting awkward bulky object across pavement",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P440",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "person carrying tool kit while moving between parked vehicles",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P441",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "individual walking across parking lot carrying folded item",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P442",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "person carrying box container towards parked vehicle",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P443",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "worker carrying maintenance equipment in outdoor lot",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P444",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "person carrying heavy bag across camera view",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P445",
+    "dataset": "TinyVIRAT",
+    "category": "Carrying",
+    "query": "individual walking with parcel carried in both arms",
+    "specificity": "high",
+    "target_context": "activity_carrying"
+  },
+  {
+    "id": "P446",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "person opening car door and getting inside vehicle",
+    "specificity": "high",
+    "target_context": "Entering"
+  },
+  {
+    "id": "P447",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "driver exiting vehicle and shutting driver side door",
+    "specificity": "high",
+    "target_context": "Exiting"
+  },
+  {
+    "id": "P448",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "passenger stepping out of parked car into parking lot",
+    "specificity": "high",
+    "target_context": "Exiting"
+  },
+  {
+    "id": "P449",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "person opening trunk lid of parked vehicle",
+    "specificity": "high",
+    "target_context": "Opening"
+  },
+  {
+    "id": "P450",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "individual closing trunk lid of car after loading item",
+    "specificity": "high",
+    "target_context": "Closing"
+  },
+  {
+    "id": "P451",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "person walking up to parked vehicle and opening door",
+    "specificity": "high",
+    "target_context": "Opening"
+  },
+  {
+    "id": "P452",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "driver shutting car door and walking away across lot",
+    "specificity": "high",
+    "target_context": "Closing"
+  },
+  {
+    "id": "P453",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "person loading box into trunk of parked car",
+    "specificity": "high",
+    "target_context": "Interacts"
+  },
+  {
+    "id": "P454",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "individual unloading item from vehicle trunk",
+    "specificity": "high",
+    "target_context": "Interacts"
+  },
+  {
+    "id": "P455",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "person opening rear door of parked SUV to place bag",
+    "specificity": "high",
+    "target_context": "Opening"
+  },
+  {
+    "id": "P456",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "passenger entering vehicle through front passenger door",
+    "specificity": "high",
+    "target_context": "Entering"
+  },
+  {
+    "id": "P457",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "driver stepping out of car and standing beside vehicle",
+    "specificity": "high",
+    "target_context": "Exiting"
+  },
+  {
+    "id": "P458",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "person standing at open vehicle trunk reaching inside",
+    "specificity": "high",
+    "target_context": "Interacts"
+  },
+  {
+    "id": "P459",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "individual shutting car door firmly before walking off",
+    "specificity": "high",
+    "target_context": "Closing"
+  },
+  {
+    "id": "P460",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "person reaching into parked vehicle through open door",
+    "specificity": "high",
+    "target_context": "Interacts"
+  },
+  {
+    "id": "P461",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "driver getting inside car and closing door behind them",
+    "specificity": "high",
+    "target_context": "Entering"
+  },
+  {
+    "id": "P462",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "person retrieving belongings from back seat of car",
+    "specificity": "high",
+    "target_context": "Interacts"
+  },
+  {
+    "id": "P463",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "two people standing next to open vehicle conversing",
+    "specificity": "high",
+    "target_context": "Interacts"
+  },
+  {
+    "id": "P464",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "individual closing hatchback trunk of parked automobile",
+    "specificity": "high",
+    "target_context": "Closing"
+  },
+  {
+    "id": "P465",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Interaction",
+    "query": "person stepping out of vehicle on passenger side",
+    "specificity": "high",
+    "target_context": "Exiting"
+  },
+  {
+    "id": "P466",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "vehicle driving and moving through parking lot scene",
+    "specificity": "high",
+    "target_context": "vehicle_moving"
+  },
+  {
+    "id": "P467",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "car slowing down to a complete stop in parking area",
+    "specificity": "high",
+    "target_context": "vehicle_stopping"
+  },
+  {
+    "id": "P468",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "automobile starting to move and accelerating forward",
+    "specificity": "high",
+    "target_context": "vehicle_starting"
+  },
+  {
+    "id": "P469",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "vehicle executing left turn at parking facility intersection",
+    "specificity": "high",
+    "target_context": "vehicle_turning_left"
+  },
+  {
+    "id": "P470",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "car making right turn into parking lot driveway",
+    "specificity": "high",
+    "target_context": "vehicle_turning_right"
+  },
+  {
+    "id": "P471",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "dark colored sedan driving slowly down facility lane",
+    "specificity": "high",
+    "target_context": "vehicle_moving"
+  },
+  {
+    "id": "P472",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "white van traveling through outdoor surveillance area",
+    "specificity": "high",
+    "target_context": "vehicle_moving"
+  },
+  {
+    "id": "P473",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "vehicle coming to a stop beside curb in parking lot",
+    "specificity": "high",
+    "target_context": "vehicle_stopping"
+  },
+  {
+    "id": "P474",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "car backing out of marked parking space into lane",
+    "specificity": "high",
+    "target_context": "vehicle_moving"
+  },
+  {
+    "id": "P475",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "pickup truck driving past building surveillance camera",
+    "specificity": "high",
+    "target_context": "vehicle_moving"
+  },
+  {
+    "id": "P476",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "vehicle pulling into marked parking slot and stopping",
+    "specificity": "high",
+    "target_context": "vehicle_stopping"
+  },
+  {
+    "id": "P477",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "automobile driving down access driveway between buildings",
+    "specificity": "high",
+    "target_context": "vehicle_moving"
+  },
+  {
+    "id": "P478",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "car making gradual turn in open parking lot area",
+    "specificity": "high",
+    "target_context": "vehicle_moving"
+  },
+  {
+    "id": "P479",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "vehicle starting up and pulling away from parked position",
+    "specificity": "high",
+    "target_context": "vehicle_starting"
+  },
+  {
+    "id": "P480",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "SUV driving steadily across facility camera field of view",
+    "specificity": "high",
+    "target_context": "vehicle_moving"
+  },
+  {
+    "id": "P481",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "car halting at driveway junction before proceeding",
+    "specificity": "high",
+    "target_context": "vehicle_stopping"
+  },
+  {
+    "id": "P482",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "commercial van turning left onto facility roadway",
+    "specificity": "high",
+    "target_context": "vehicle_turning_left"
+  },
+  {
+    "id": "P483",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "automobile making sharp right turn in parking lot",
+    "specificity": "high",
+    "target_context": "vehicle_turning_right"
+  },
+  {
+    "id": "P484",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "vehicle moving continuously through facility grounds",
+    "specificity": "high",
+    "target_context": "vehicle_moving"
+  },
+  {
+    "id": "P485",
+    "dataset": "TinyVIRAT",
+    "category": "Vehicle Movement",
+    "query": "car stopping in driving lane with brake lights illuminated",
+    "specificity": "high",
+    "target_context": "vehicle_stopping"
+  },
+  {
+    "id": "P486",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "person standing stationary in parking lot looking around",
+    "specificity": "high",
+    "target_context": "activity_standing"
+  },
+  {
+    "id": "P487",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "two individuals standing together talking in parking facility",
+    "specificity": "high",
+    "target_context": "Talking"
+  },
+  {
+    "id": "P488",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "person standing near parked car for extended period",
+    "specificity": "high",
+    "target_context": "activity_standing"
+  },
+  {
+    "id": "P489",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "two people meeting and conversing outside building entrance",
+    "specificity": "high",
+    "target_context": "Talking"
+  },
+  {
+    "id": "P490",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "individual standing still holding mobile phone in hands",
+    "specificity": "high",
+    "target_context": "specialized_texting_phone"
+  },
+  {
+    "id": "P491",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "person talking on mobile phone while walking across lot",
+    "specificity": "high",
+    "target_context": "specialized_talking_phone"
+  },
+  {
+    "id": "P492",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "two people exchanging an object while standing in lot",
+    "specificity": "high",
+    "target_context": "Interacts"
+  },
+  {
+    "id": "P493",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "person gesturing with hands while conversing with another",
+    "specificity": "high",
+    "target_context": "activity_gesturing"
+  },
+  {
+    "id": "P494",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "worker standing in parking lot using handheld tool",
+    "specificity": "high",
+    "target_context": "specialized_using_tool"
+  },
+  {
+    "id": "P495",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "person standing beside parked vehicle waiting for someone",
+    "specificity": "high",
+    "target_context": "activity_standing"
+  },
+  {
+    "id": "P496",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "three people standing in group chatting in parking area",
+    "specificity": "high",
+    "target_context": "Talking"
+  },
+  {
+    "id": "P497",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "individual pausing and looking at phone screen in lot",
+    "specificity": "high",
+    "target_context": "specialized_texting_phone"
+  },
+  {
+    "id": "P498",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "person running briskly across parking lot towards vehicle",
+    "specificity": "high",
+    "target_context": "activity_running"
+  },
+  {
+    "id": "P499",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "individual pulling or maneuvering an object across pavement",
+    "specificity": "high",
+    "target_context": "Pull"
+  },
+  {
+    "id": "P500",
+    "dataset": "TinyVIRAT",
+    "category": "Interactions",
+    "query": "person standing stationary observing activity in lot",
+    "specificity": "high",
+    "target_context": "activity_standing"
+  }
+]

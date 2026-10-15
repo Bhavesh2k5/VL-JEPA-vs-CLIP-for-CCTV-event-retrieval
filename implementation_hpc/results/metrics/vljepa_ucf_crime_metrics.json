@@ -1,0 +1,82 @@
+{
+  "model": "vljepa",
+  "dataset": "ucf_crime",
+  "retrieval": {
+    "Recall@1": 0.9286,
+    "Recall@5": 1.0,
+    "Recall@10": 1.0,
+    "MRR": 0.9464,
+    "nDCG@10": 3.8723,
+    "mAP": 0.9091
+  },
+  "efficiency": {
+    "mean_latency_ms": 84.15,
+    "std_latency_ms": 2.58,
+    "p50_latency_ms": 83.6,
+    "p95_latency_ms": 86.93,
+    "peak_gpu_mem_mb": 1527.42,
+    "reserved_gpu_mem_mb": 1584.0,
+    "throughput_clips_per_sec": 15.03
+  },
+  "faithfulness": {
+    "grounded": {
+      "grounding_score": 0.25,
+      "hallucination_rate": 0.75,
+      "total_sentences": 4,
+      "supported_sentences": 1,
+      "unsupported_sentences": 3,
+      "details": [
+        {
+          "sentence": "INCIDENT CLASSIFICATION: ABUSE (Confidence: 33",
+          "supported": true,
+          "reason": "grounded"
+        },
+        {
+          "sentence": "OBSERVED EVIDENCE: Analysis of 5 retrieved footage items confirms active 'abuse' recorded from stationary camera perspective (Primary evidence: Abuse009_x264",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "SEVERITY ASSESSMENT: Medium severity based on retrieved movement indicators",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "ACTION REQUIRED: Log event for routine shift review",
+          "supported": false,
+          "reason": "unsupported_claim"
+        }
+      ]
+    },
+    "ungrounded": {
+      "grounding_score": 0.0,
+      "hallucination_rate": 1.0,
+      "total_sentences": 4,
+      "supported_sentences": 0,
+      "unsupported_sentences": 4,
+      "details": [
+        {
+          "sentence": "INCIDENT CLASSIFICATION: UNGROUNDED INQUIRY (physical abuse and domestic violence assault)",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "OBSERVED EVIDENCE: Speculative report generated without verified camera footage context",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "SEVERITY ASSESSMENT: Unknown",
+          "supported": false,
+          "reason": "unsupported_claim"
+        },
+        {
+          "sentence": "ACTION REQUIRED: Verify footage before taking security action",
+          "supported": false,
+          "reason": "unsupported_claim"
+        }
+      ]
+    }
+  },
+  "generalization": {}
+}

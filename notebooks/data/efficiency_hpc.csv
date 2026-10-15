@@ -1,0 +1,10 @@
+model,dataset,latency_mean_ms,latency_std_ms,throughput_fps,vram_allocated_mb,vram_reserved_mb
+vljepa,rlvs,48.6,3.8,328.4,6420,8192
+vljepa,ucf_arg,49.2,4.1,324.8,6420,8192
+vljepa,tinyvirat,51.8,4.5,308.6,6540,8192
+clip_large,rlvs,28.4,2.1,562.8,3140,4096
+clip_large,ucf_arg,28.9,2.3,553.2,3140,4096
+clip_large,tinyvirat,29.5,2.4,542.1,3180,4096
+clip_base,rlvs,12.2,1.1,1310.5,1280,2048
+clip_base,ucf_arg,12.5,1.2,1279.0,1280,2048
+clip_base,tinyvirat,13.1,1.3,1220.4,1310,2048
